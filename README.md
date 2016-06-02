@@ -1,7 +1,7 @@
 # FEniCS Project Governance
 
-# All documents in this repository are draft versions and are provided for
-# information only.
+*All documents in this repository are draft versions and are provided for
+information only*
 
 This repository contains the governance documents for the FEniCS
 Project (http://fenicsproject.org). Its purpose is to clarify how

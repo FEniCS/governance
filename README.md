@@ -14,6 +14,7 @@ entities.
 
 * [Main Governance Document](governance.md)
 * [Current Steering Council and Institutional Partners](people.md)
+* [Licensing and Copyright](projectlicense.md)
 
 ## License of Governance Documents
 

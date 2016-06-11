@@ -18,8 +18,7 @@ repositories under the
 Examples of Project Software include DOLFIN, FEniCS Form Compiler
 (FFC) and the Unified Form Language (UFL), etc.  The Services run by
 the Project consist of public websites and web-services that are
-hosted under the fenicsproject.org domain. The Services Examples of
-Project Services include the Jupyter and IP
+hosted under the fenicsproject.org domain.
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,
@@ -210,6 +209,7 @@ BDFL is literally giving up his/her authority to someone else in
 full. It’s more like what Linus Torvalds uses with his “lieutenants”
 model.
 
+
 ### NumFOCUS Subcommittee
 
 The Council will maintain one narrowly focused subcommittee to manage
@@ -230,27 +230,28 @@ its interactions with NumFOCUS.
   resting on one person.
 
 
-Institutional Partners and Funding
-==================================
+## Institutional Partners and Funding
 
-The BDFL and Steering Council are the primary leadership for the project. No
-outside institution, individual or legal entity has the ability to own,
-control, usurp or influence the project other than by participating in the
-Project as Contributors and Council Members. However, because institutions are
-the primary funding mechanism for the project, it is important to formally
-acknowledge institutional participation in the project. These are Institutional
+The BDFL and Steering Council are the primary leadership for the
+project. No outside institution, individual or legal entity has the
+ability to own, control, usurp or influence the project other than by
+participating in the Project as Contributors and Council
+Members. However, because institutions are the primary funding
+mechanism for the project, it is important to formally acknowledge
+institutional participation in the project. These are Institutional
 Partners.
 
 An Institutional Contributor is any individual Project Contributor who
-contributes to the project as part of their official duties at an Institutional
-Partner. Likewise, an Institutional Council Member is any Project Steering
-Council Member who contributes to the project as part of their official duties
-at an Institutional Partner.
+contributes to the project as part of their official duties at an
+Institutional Partner. Likewise, an Institutional Council Member is
+any Project Steering Council Member who contributes to the project as
+part of their official duties at an Institutional Partner.
 
-With these definitions, an Institutional Partner is any recognized legal entity
-in the United States or elsewhere that employs at least one Institutional
-Contributor or Institutional Council Member. Institutional Partners can be
-for-profit or non-profit entities.
+With these definitions, an Institutional Partner is any recognized
+legal entity in the United States or elsewhere that employs at least
+one Institutional Contributor or Institutional Council
+Member. Institutional Partners can be for-profit or non-profit
+entities.
 
 Institutions become eligible to become an Institutional Partner by
 employing individuals who actively contribute to The Project as part
@@ -258,71 +259,69 @@ of their official duties. To state this another way, the only way for
 an Institutional Partner to influence the project is by actively
 contributing to the open development of the project, on equal terms
 with any other member of the community of Contributors and Council
-Members. Merely using Jupyter/IPython Software or Services in an
+Members. Merely using FEniCS Software or Services in an
 institutional context does not allow an entity to become an
 Institutional Partner. Financial gifts do not enable an entity to
 become an Institutional Partner. Once an institution becomes eligible
 for Institutional Partnership, the Steering Council must nominate and
 approve the Partnership.
 
-If an existing Institutional Partner no longer has a contributing employee,
-they will be given a one-year grace period for other employees to begin
-contributing.
+If an existing Institutional Partner no longer has a contributing
+employee, they will be given a one-year grace period for other
+employees to begin contributing.
 
-An Institutional Partner is free to pursue funding for their work on The
-Project through any legal means. This could involve a non-profit organization
-raising money from private foundations and donors or a for-profit company
-building proprietary products and services that leverage Project Software and
-Services. Funding acquired by Institutional Partners to work on The Project is
-called Institutional Funding. However, no funding obtained by an Institutional
-Partner can override The Project BDFL and Steering Council. If a Partner has
-funding to do Jupyter/IPython work and the Council decides to not pursue that
-work as a project, the Partner is free to pursue it on their own. However in
-this situation, that part of the Partner’s work will not be under the
-Jupyter/IPython umbrella and cannot use the Project trademarks in a way that
-suggests a formal relationship.
+An Institutional Partner is free to pursue funding for their work on
+The Project through any legal means. This could involve a non-profit
+organization raising money from private foundations and donors or a
+for-profit company building proprietary products and services that
+leverage Project Software and Services. Funding acquired by
+Institutional Partners to work on The Project is called Institutional
+Funding. However, no funding obtained by an Institutional Partner can
+override The Project BDFL and Steering Council. If a Partner has
+funding to do FEniCS work and the Council decides to not pursue that
+work as a project, the Partner is free to pursue it on their
+own. However in this situation, that part of the Partner’s work will
+not be under the FEniCS umbrella and cannot use the Project trademarks
+in a way that suggests a formal relationship.
 
-To acknowledge institutional contributions, there are two level of Institutional
-Partners, with associated benefits:
+To acknowledge institutional contributions, there are two level of
+Institutional Partners, with associated benefits:
 
 **Tier 1** = an institution with at least one Institutional Council Member
 
--   Acknowledged on the Jupyter/IPython websites, in talks and T-shirts.
--   Ability to acknowledge their own funding sources on the Jupyter/IPython
-    websites, in talks and T-shirts.
--   Unlimited participation in the annual Institutional Partners Workshop, held
-    during the (planned) annual Jupyter Project Retreat. This allows the
-    Institutional Partner to invite as many of their own employees and funding
-    sources and collaborators as they want, even if they are not project
-    Contributors or Council Members.
--   Ability to influence the project through the participation of their Council
-    Member.
--   Council Members are invited to the bi-annual Jupyter/IPython Developer Meeting.
+- Acknowledged on FEniCS websites, in talks and T-shirts.
+- Ability to acknowledge their own funding sources on FEniCS websites,
+  in talks and T-shirts.
+- Unlimited participation in the annual Institutional Partners
+  Workshop, held during the (planned) annual FEniCS Project
+  Retreat. This allows the Institutional Partner to invite as many of
+  their own employees and funding sources and collaborators as they
+  want, even if they are not project Contributors or Council Members.
+- Ability to influence the project through the participation of their
+  Council Member.
+- Council Members are invited to the bi-annual FEniCS Developer
+  Meeting.
 
 **Tier 2** = an institution with at least one Institutional Contributor
 
--   Same benefits as Tier 1 level Partners, but:
--   Only Institutional Contributors are invited to the Institutional Partners
-    Workshop and bi-annual Jupyter/IPython Developer Meeting.
+- Same benefits as Tier 1 level Partners, but:
+- Only Institutional Contributors are invited to the Institutional
+  Partners Workshop and bi-annual FEniCS Developer Meeting.
 
 
-Changing the Governance Documents
-=================================
+## Changing the Governance Documents
 
-Changes to the governance documents are submitted via a GitHub pull
-request to The Project's governance documents GitHub repository at
-[https://github.com/jupyter/governance](https://github.com/jupyter/governance).
-The pull request is then refined in response to public comment and
-review, with the goal being consensus in the community.  After this
-open period, a Steering Council Member proposes to the Steering
-Council that the changes be ratified and the pull request merged
-(accepting the proposed changes) or proposes that the pull request be
-closed without merging (rejecting the proposed changes).  The Member
-should state the final commit hash in the pull request being proposed
-for acceptance or rejection and briefly summarize the pull request. A
-minimum of 80% of the Steering Council must vote and at least 2/3 of
-the votes must be positive to carry out the proposed action (fractions
-of a vote rounded up to the nearest integer). Since the BDFL holds
-ultimate authority in The Project, the BDFL has authority to act alone
-in accepting or rejecting changes or overriding Steering Council
-decisions.
+Changes to the governance documents are submitted via a pull request
+to The Project's governance documents repository at
+<https://bitbucket.org/fenics-project/governance>.  The pull request
+is then refined in response to public comment and review, with the
+goal being consensus in the community.  After this open period, a
+Steering Council Member proposes to the Steering Council that the
+changes be ratified and the pull request merged (accepting the
+proposed changes) or proposes that the pull request be closed without
+merging (rejecting the proposed changes).  The Member should state the
+final commit hash in the pull request being proposed for acceptance or
+rejection and briefly summarize the pull request. A minimum of 80% of
+the Steering Council must vote and at least 2/3 of the votes must be
+positive to carry out the proposed action (fractions of a vote rounded
+up to the nearest integer).

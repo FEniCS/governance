@@ -2,25 +2,22 @@
 
 ## Steering Council
 
-- Brian Granger
-- Damian Avila
-- Fernando Perez
-- Jason Grout
-- Jessica Hamrick
-- Jonathan Frederic
-- Kyle Kelley
-- Matthias Bussonnier
-- Min Ragan-Kelley
-- Sylvain Corlay
-- Thomas Kluyver
+- Martin S. Alnaes
+- Jan Blechta
+- Anders Logg
+- Chris Richardson
+- Marie E. Rognes
+- Garth N. Wells
+- . . .
+- . . .
+
 
 ### NumFOCUS Subcommittee
 
-- Brian Granger
-- Fernando Perez
-- Matthias Bussonnier
-- Stefan van der Walt (non-council member)
-- Thomas Kluyver
+- Anders Logg
+- Marie E. Rognes
+- Garth N. Wells
+
 
 ## Institutional Partners
 
@@ -28,25 +25,25 @@
 
 Institutional Council members are noted with each institution.
 
-- [Bloomberg](http://www.bloomberg.com/) (Jason Grout, Sylvain Corlay)
-- [Cal Poly](http://www.calpoly.edu/) (Brian Granger)
-- [Continuum Analytics](http://continuum.io/) (Damian Avila)
-- [UC Berkeley](http://www.berkeley.edu/) (Fernando Perez)
-- [Rackspace](http://www.rackspace.com/) (Kyle Kelley)
+- [Chalmers University of Technology](http://www.chalmers.se/) (Anders Logg)
+- [Charles University](http://www.cuni.cz/) (Jan Blechta)
+- [Simula Research Laboratory](http://www.simula.no/) (Martin Alnaes, Marie Rognes)
+- [University of Cambridge](http://www.cam.ac.uk/) (Chris Richardson, Garth Wells)
+
 
 ### Tier 2
 
 - [Google](https://www.google.com/)
 
+
 ## New Steering Council Members
 
 When a new member joins the steering council, the following things are done:
-- Announce the new member on the Jupyter mailing list
-- Make the new member an org owner for IPython and Jupyter Github
-  organizations
+- Announce the new member on the FEniCS mailing list
+- Make the new member an org owner for the FEniCS organization
 - Add the new member to the list in the governance repo, and if
   appropriate, add their affiliation to the institutional partner list
-  (https://github.com/jupyter/governance/blob/master/people.md)
+  (<https://bitbucket.org/fenics-project/governance/src/master/people.md>)
 - Add the new member to the list of steering council members on the
   website
-  (https://github.com/jupyter/jupyter.github.io/blob/master/about.html)
+  (<https://github.com/jupyter/jupyter.github.io/blob/master/about.html>)

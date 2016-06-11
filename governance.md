@@ -2,9 +2,8 @@
 
 The official version of this document, along with a list of
 individuals and institutions in the roles defined in the governance
-section below, is contained in The Project Governance Repository at:
-
-https://bitbucket.org/fenics-project/governance
+section below, is contained in The Project Governance Repository at
+<https://bitbucket.org/fenics-project/governance>
 
 ## The Project
 
@@ -30,9 +29,12 @@ Issues and participating in open and public Project discussions on
 Bitbucket, Google+, Slack channels and mailing lists. The foundation
 of Project participation is openness and transparency.
 
-Here is a list of the current Contributors to the DOLFIN repository:
+Here is a list of the current Contributors to the DOLFIN, FFC and UFL
+repositories:
 
 [https://github.com/FEniCS/dolfin/graphs/contributors](https://github.com/FEniCS/dolfin/graphs/contributors)
+[https://github.com/FEniCS/dolfin/ffc/contributors](https://github.com/FEniCS/ffc/graphs/contributors)
+[https://github.com/FEniCS/dolfin/ufc/contributors](https://github.com/FEniCS/ufl/graphs/contributors)
 
 There are also many other Contributors listed in the logs of other repositories of
 FEniCS projects.

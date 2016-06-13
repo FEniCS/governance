@@ -63,19 +63,17 @@ The foundations of Project governance are:
 - Active Contribution
 - Institutional Neutrality
 
-Traditionally, Project leadership was provided by a BDFL (Fernando
-Perez) and subset of Contributors, called Core Developers, whose
+Traditionally, Project leadership was provided by a 
+subset of Contributors, called Core Developers, whose
 active and consistent contributions have been recognized by their
 receiving “commit rights” to the Project GitHub repositories. In
 general all Project decisions are made through consensus among the
-Core Developers with input from the Community. The BDFL can, but
-rarely chooses to, override the Core Developers and make a final
-decision on a matter.
+Core Developers with input from the Community. 
 
 While this approach has served us well, as the Project grows and faces
 more legal and financial decisions and interacts with other
 institutions, we see a need for a more formal governance model. Moving
-forward The Project leadership will consist of a BDFL and Steering
+forward The Project leadership will consist of a Steering
 Council. We view this governance model as the formalization of what we
 are already doing, rather than a change in direction.
 
@@ -124,7 +122,7 @@ year. Potential Council Members are nominated by existing Council
 members and voted upon by the existing Council after asking if the
 potential Member is interested and willing to serve in that
 capacity. The Council will be initially formed from the set of
-existing Core Developers who, as of late 2014, have been significantly
+existing Core Developers who, as of mid 2016, have been significantly
 active over the last year.
 
 When considering potential Members, the Council will look at
@@ -136,31 +134,31 @@ setting arbitrary quantitative metrics (like “100 commits in this
 repo”) to avoid encouraging behavior that plays to the metrics rather
 than the project’s overall well-being. We want to encourage a diverse
 array of backgrounds, viewpoints and talents in our team, which is why
-we explicitly do not define code as the sole metric on which council
+we explicitly do not define code as the sole metric on which Council
 membership will be evaluated.
 
 If a Council member becomes inactive in the project for a period of
 one year, they will be considered for removal from the Council. Before
-removal, inactive Member will be approached by the BDFL to see if they
+removal, the inactive Member will be approached by another Council member to see if they
 plan on returning to active participation. If not they will be removed
 immediately upon a Council vote. If they plan on returning to active
 participation soon, they will be given a grace period of one year. If
-they don’t return to active participation within that time period they
+they do not return to active participation within that time period they
 will be removed by vote of the Council without further grace
 period. All former Council members can be considered for membership
 again at any time in the future, like any other Project Contributor.
 Retired Council members will be listed on the project website,
 acknowledging the period during which they were active in the Council.
 
-The Council reserves the right to eject current Members, other than
-the BDFL, if they are deemed to be actively harmful to the project’s
+The Council reserves the right to eject current Members 
+if they are deemed to be actively harmful to the project’s
 well-being, and attempts at communication and conflict resolution have
 failed.
 
 
 ### Conflict of interest
 
-It is expected that the BDFL and Council Members will be employed at a
+It is expected that Council Members will be employed at a
 wide range of companies, universities and non-profit
 organizations. Because of this, it is possible that Members will have
 conflict of interests. Such conflict of interests include, but are not
@@ -183,7 +181,7 @@ on that issue, but must recuse themselves from voting on the issue.
 Unless specifically required, all Council discussions and activities
 will be public and done in collaboration and discussion with the
 Project Contributors and Community. The Council will have a private
-mailing list that will be used sparingly and only when a specific
+mailing list or chat channel that will be used sparingly and only when a specific
 matter requires privacy. When private communications and decisions are
 needed, the Council will do its best to summarize those to the
 Community after eliding personal/private/sensitive information that
@@ -197,19 +195,8 @@ guidance for specific aspects of the project. Like the Council as a
 whole, subcommittees should conduct their business in an open and
 public manner unless privacy is specifically called for. Private
 subcommittee communications should happen on the main private mailing
-list of the Council unless specifically called for.
-
-Question: if the BDFL is not on a subcommittee, do they still have
-override authority?
-
-Suggestion: they do, but they should appoint a delegate who plays that
-role most of the time, and explicit BDFL intervention is sought only
-if the committee disagrees with that delegate’s decision and no
-resolution is possible within the team. This is different from a BDFL
-delegate for a specific decision (or a recusal situation), where the
-BDFL is literally giving up his/her authority to someone else in
-full. It’s more like what Linus Torvalds uses with his “lieutenants”
-model.
+list or chat channel of the Council unless specifically called for.
+All subcommittees report to Council.
 
 
 ### NumFOCUS Subcommittee
@@ -217,7 +204,7 @@ model.
 The Council will maintain one narrowly focused subcommittee to manage
 its interactions with NumFOCUS.
 
-- The NumFOCUS Subcommittee is comprised of 5 persons who manage
+- The NumFOCUS Subcommittee is comprised of 3 persons who manage
   project funding that comes through NumFOCUS. It is expected that
   these funds will be spent in a manner that is consistent with the
   non-profit mission of NumFOCUS and the direction of the Project as
@@ -234,7 +221,7 @@ its interactions with NumFOCUS.
 
 ## Institutional Partners and Funding
 
-The BDFL and Steering Council are the primary leadership for the
+The Steering Council is the primary leadership for the
 project. No outside institution, individual or legal entity has the
 ability to own, control, usurp or influence the project other than by
 participating in the Project as Contributors and Council
@@ -279,7 +266,7 @@ for-profit company building proprietary products and services that
 leverage Project Software and Services. Funding acquired by
 Institutional Partners to work on The Project is called Institutional
 Funding. However, no funding obtained by an Institutional Partner can
-override The Project BDFL and Steering Council. If a Partner has
+override the Steering Council. If a Partner has
 funding to do FEniCS work and the Council decides to not pursue that
 work as a project, the Partner is free to pursue it on their
 own. However in this situation, that part of the Partner’s work will

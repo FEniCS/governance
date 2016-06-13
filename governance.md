@@ -32,11 +32,9 @@ of Project participation is openness and transparency.
 Here is a list of the current Contributors to the DOLFIN, FFC and UFL
 repositories:
 
-[https://github.com/FEniCS/dolfin/graphs/contributors](https://github.com/FEniCS/dolfin/graphs/contributors)
-
-[https://github.com/FEniCS/dolfin/ffc/contributors](https://github.com/FEniCS/ffc/graphs/contributors)
-
-[https://github.com/FEniCS/dolfin/ufc/contributors](https://github.com/FEniCS/ufl/graphs/contributors)
+- [https://github.com/FEniCS/dolfin/graphs/contributors](https://github.com/FEniCS/dolfin/graphs/contributors)
+- [https://github.com/FEniCS/dolfin/ffc/contributors](https://github.com/FEniCS/ffc/graphs/contributors)
+- [https://github.com/FEniCS/dolfin/ufc/contributors](https://github.com/FEniCS/ufl/graphs/contributors)
 
 There are also many other Contributors listed in the logs of other repositories of
 FEniCS projects.

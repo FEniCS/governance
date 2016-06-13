@@ -11,7 +11,7 @@ specific information.
 
 ## Our copyright policy
 
-Jupyter uses a shared copyright model. Each contributor maintains
+FEniCS uses a shared copyright model. Each contributor maintains
 copyright over their contributions to Jupyter. But, it is important to
 note that these contributions are typically only changes to the
 repositories. Thus, the Jupyter source code, in its entirety is not

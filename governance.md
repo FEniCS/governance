@@ -19,7 +19,7 @@ Examples of Project Software include DOLFIN, the FEniCS Form Compiler
 the Project consist of public websites and web-services that are
 hosted under the fenicsproject.org domain.
 
-[AL: Test]
+[AL: What about the test system which is technically not hosted under the fenicsproject.org domain?]
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,
@@ -31,12 +31,14 @@ Issues and participating in open and public Project discussions on
 Bitbucket, Google+, Slack channels and mailing lists. The foundation
 of Project participation is openness and transparency.
 
+[AL: Do we use Google+? I stopped using it a year ago or more.]
+
 Here is a list of the current Contributors to the DOLFIN, FFC and UFL
 repositories:
 
 - [https://github.com/FEniCS/dolfin/graphs/contributors](https://github.com/FEniCS/dolfin/graphs/contributors)
-- [https://github.com/FEniCS/dolfin/ffc/contributors](https://github.com/FEniCS/ffc/graphs/contributors)
-- [https://github.com/FEniCS/dolfin/ufc/contributors](https://github.com/FEniCS/ufl/graphs/contributors)
+- [https://github.com/FEniCS/dolfin/graphs/ffc/contributors](https://github.com/FEniCS/ffc/graphs/contributors)
+- [https://github.com/FEniCS/dolfin/graphs/ufl/contributors](https://github.com/FEniCS/ufl/graphs/contributors)
 
 There are also many other Contributors listed in the logs of other repositories of
 FEniCS projects.
@@ -51,9 +53,8 @@ The Project is formally affiliated with the 501c3 NumFOCUS Foundation
 fiscal sponsor, may hold project trademarks and other intellectual
 property, helps manage project donations and acts as a parent legal
 entity. NumFOCUS is the only legal entity that has a formal
-relationship with the project (see Institutional Partners section
+relationship with The Project (see Institutional Partners section
 below).
-
 
 ## Governance
 
@@ -68,17 +69,18 @@ The foundations of Project governance are:
 Traditionally, Project leadership was provided by a
 subset of Contributors, called Core Developers, whose
 active and consistent contributions have been recognized by their
-receiving “commit rights” to the Project GitHub repositories. In
-general all Project decisions are made through consensus among the
+receiving “commit rights” to the Project repositories. In
+general all Project decisions were made through consensus among the
 Core Developers with input from the Community.
 
 While this approach has served us well, as the Project grows and faces
 more legal and financial decisions and interacts with other
 institutions, we see a need for a more formal governance model. Moving
-forward The Project leadership will consist of a Steering
-Council. We view this governance model as the formalization of what we
-are already doing, rather than a change in direction.
+forward The Project leadership will consist of a Steering Council. We
+view this governance model as the formalization of what we are already
+doing, rather than a change in direction.
 
+[AL: Some inconsistencies in 'the Project' vs 'The Project' etc.]
 
 ### Steering Council
 
@@ -163,7 +165,7 @@ failed.
 It is expected that Council Members will be employed at a
 wide range of companies, universities and non-profit
 organizations. Because of this, it is possible that Members will have
-conflict of interests. Such conflict of interests include, but are not
+conflicts of interest. Such conflicts of interest include, but are not
 limited to:
 
 - Financial interests, such as investments, employment or contracting
@@ -177,7 +179,6 @@ any conflict of interest they may have. Members with a conflict of
 interest in a particular issue may participate in Council discussions
 on that issue, but must recuse themselves from voting on the issue.
 
-
 ### Private communications of the Council
 
 Unless specifically required, all Council discussions and activities
@@ -189,7 +190,6 @@ needed, the Council will do its best to summarize those to the
 Community after eliding personal/private/sensitive information that
 should not be posted to the public internet.
 
-
 ### Subcommittees
 
 The Council can create subcommittees that provide leadership and
@@ -200,13 +200,12 @@ subcommittee communications should happen on the main private mailing
 list or chat channel of the Council unless specifically called for.
 All subcommittees report to Council.
 
-
 ### NumFOCUS Subcommittee
 
 The Council will maintain one narrowly focused subcommittee to manage
 its interactions with NumFOCUS.
 
-- The NumFOCUS Subcommittee is comprised of 3 persons who manage
+- The NumFOCUS Subcommittee is comprised of 3 members who manage
   project funding that comes through NumFOCUS. It is expected that
   these funds will be spent in a manner that is consistent with the
   non-profit mission of NumFOCUS and the direction of the Project as
@@ -220,6 +219,7 @@ its interactions with NumFOCUS.
   i.e. the reportee + 1 is the max). This avoids effective majorities
   resting on one person.
 
+[AL: Don't understand the last bullet point here, just remove?]
 
 ## Institutional Partners and Funding
 
@@ -275,7 +275,7 @@ own. However in this situation, that part of the Partner’s work will
 not be under the FEniCS umbrella and cannot use the Project trademarks
 in a way that suggests a formal relationship.
 
-To acknowledge institutional contributions, there are two level of
+To acknowledge institutional contributions, there are two levels of
 Institutional Partners, with associated benefits:
 
 **Tier 1** = an institution with at least one Institutional Council Member
@@ -290,8 +290,13 @@ Institutional Partners, with associated benefits:
   want, even if they are not project Contributors or Council Members.
 - Ability to influence the project through the participation of their
   Council Member.
-- Council Members are invited to the bi-annual FEniCS Developer
-  Meeting.
+- Council Members are invited to the bi-annual FEniCS Developer Meeting.
+
+[AL: Suggest removing T-shirts. Shouldn't we be able to make T-shirts without the need for including all university logos? This might be fine in many cases but sometimes the T-shirt migth be prettier without lots of logos.]
+
+[AL: What is the Project Retreat? Should it be Project Conference?]
+
+[AL: Do we have a biannual Developer Meeting?]
 
 **Tier 2** = an institution with at least one Institutional Contributor
 
@@ -299,6 +304,7 @@ Institutional Partners, with associated benefits:
 - Only Institutional Contributors are invited to the Institutional
   Partners Workshop and bi-annual FEniCS Developer Meeting.
 
+[AL: Don't really understand the difference here. Looks like there is a very small difference between Tier 1 and Tier 2?]
 
 ## Changing the Governance Documents
 

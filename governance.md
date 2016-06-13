@@ -116,7 +116,6 @@ situations.  In particular, the Council may:
 - Make decisions when regular community discussion doesn’t produce
   consensus on an issue in a reasonable time frame.
 
-
 ### Council membership
 
 To become eligible for being a Steering Council Member an individual
@@ -139,26 +138,28 @@ repo”) to avoid encouraging behavior that plays to the metrics rather
 than the project’s overall well-being. We want to encourage a diverse
 array of backgrounds, viewpoints and talents in our team, which is why
 we explicitly do not define code as the sole metric on which Council
-membership will be evaluated.
+membership will be evaluated. Furthermore, to not give too much
+influence to any one organization, the maximum number of Council
+Members from the same organization (university, research institute or
+company) is two.
 
 If a Council member becomes inactive in the project for a period of
 one year, they will be considered for removal from the Council. Before
-removal, the inactive Member will be approached by another Council member to see if they
-plan on returning to active participation. If not they will be removed
-immediately upon a Council vote. If they plan on returning to active
-participation soon, they will be given a grace period of one year. If
-they do not return to active participation within that time period they
-will be removed by vote of the Council without further grace
-period. All former Council members can be considered for membership
-again at any time in the future, like any other Project Contributor.
-Retired Council members will be listed on the project website,
-acknowledging the period during which they were active in the Council.
+removal, the inactive Member will be approached by another Council
+member to see if they plan on returning to active participation. If
+not they will be removed immediately upon a Council vote. If they plan
+on returning to active participation soon, they will be given a grace
+period of one year. If they do not return to active participation
+within that time period they will be removed by vote of the Council
+without further grace period. All former Council members can be
+considered for membership again at any time in the future, like any
+other Project Contributor.  Retired Council members will be listed on
+the project website, acknowledging the period during which they were
+active in the Council.
 
-The Council reserves the right to eject current Members
-if they are deemed to be actively harmful to the project’s
-well-being, and attempts at communication and conflict resolution have
-failed.
-
+The Council reserves the right to eject current Members if they are
+deemed to be actively harmful to the project’s well-being, and
+attempts at communication and conflict resolution have failed.
 
 ### Conflict of interest
 

@@ -4,12 +4,11 @@
 
 - Martin S. Alnaes
 - Jan Blechta
+- Jack S, Hale
 - Anders Logg
 - Chris Richardson
 - Marie E. Rognes
 - Garth N. Wells
-- . . .
-- . . .
 
 
 ### NumFOCUS Subcommittee
@@ -27,18 +26,22 @@ Institutional Council members are noted with each institution.
 
 - [Chalmers University of Technology](http://www.chalmers.se/) (Anders Logg)
 - [Charles University](http://www.cuni.cz/) (Jan Blechta)
-- [Simula Research Laboratory](http://www.simula.no/) (Martin Alnaes, Marie Rognes)
-- [University of Cambridge](http://www.cam.ac.uk/) (Chris Richardson, Garth Wells)
+- [Simula Research Laboratory](http://www.simula.no/) (Martin Alnaes,
+  Marie E. Rognes)
+- [University of Cambridge](http://www.cam.ac.uk/) (Chris Richardson,
+  Garth N. Wells)
+- [University of Luxembourg](http://www.uni.lu/) (Jack S. Hale)
 
 
 ### Tier 2
 
-- [Google](https://www.google.com/)
+- [XXX](https://www.foo.com/)
 
 
 ## New Steering Council Members
 
-When a new member joins the steering council, the following things are done:
+When a new member joins the steering council, the following things are
+done:
 - Announce the new member on the FEniCS mailing list
 - Make the new member an org owner for the FEniCS organization
 - Add the new member to the list in the governance repo, and if

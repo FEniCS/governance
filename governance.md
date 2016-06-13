@@ -14,10 +14,12 @@ Software developed by The Project is released under the LGPL (or
 similar) open source license, developed openly and hosted in public
 repositories under the
 [FEniCS Bitbucket organization](https://bitbucket.org/fenics-project/).
-Examples of Project Software include DOLFIN, FEniCS Form Compiler
-(FFC) and the Unified Form Language (UFL), etc.  The Services run by
+Examples of Project Software include DOLFIN, the FEniCS Form Compiler
+(FFC) and the Unified Form Language (UFL), etc. The Services run by
 the Project consist of public websites and web-services that are
 hosted under the fenicsproject.org domain.
+
+[AL: Test]
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,
@@ -63,12 +65,12 @@ The foundations of Project governance are:
 - Active Contribution
 - Institutional Neutrality
 
-Traditionally, Project leadership was provided by a 
+Traditionally, Project leadership was provided by a
 subset of Contributors, called Core Developers, whose
 active and consistent contributions have been recognized by their
 receiving “commit rights” to the Project GitHub repositories. In
 general all Project decisions are made through consensus among the
-Core Developers with input from the Community. 
+Core Developers with input from the Community.
 
 While this approach has served us well, as the Project grows and faces
 more legal and financial decisions and interacts with other
@@ -150,7 +152,7 @@ again at any time in the future, like any other Project Contributor.
 Retired Council members will be listed on the project website,
 acknowledging the period during which they were active in the Council.
 
-The Council reserves the right to eject current Members 
+The Council reserves the right to eject current Members
 if they are deemed to be actively harmful to the project’s
 well-being, and attempts at communication and conflict resolution have
 failed.

@@ -4,6 +4,7 @@
 in conjunction with the ratification of the new FEniCS Governance
 Documents and its principles for Steering Council membership.*
 
+
 ## Steering Council
 
 - Martin S. Alnaes (Simula Research Laboratory)
@@ -14,11 +15,13 @@ Documents and its principles for Steering Council membership.*
 - Marie E. Rognes (Simula Research Laboratory)
 - Garth N. Wells (University of Cambridge)
 
+
 ### NumFOCUS Subcommittee
 
 - Anders Logg
 - Marie E. Rognes
 - Garth N. Wells
+
 
 ## Institutional Partners
 
@@ -34,9 +37,11 @@ Institutional Council members are noted with each institution.
   Garth N. Wells)
 - [University of Luxembourg](http://www.uni.lu/) (Jack S. Hale)
 
+
 ### Tier 2
 
 - [XXX](https://www.foo.com/)
+
 
 ## New Steering Council Members
 

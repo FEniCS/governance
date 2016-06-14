@@ -33,8 +33,6 @@ Issues and participating in open and public Project discussions on
 Bitbucket, Google+, Slack channels and mailing lists. The foundation
 of Project participation is openness and transparency.
 
-[AL: Do we use Google+? I stopped using it a year ago or more.]
-
 Here is a list of the current Contributors to the DOLFIN, FFC and UFL
 repositories:
 
@@ -72,7 +70,7 @@ The foundations of Project governance are:
 
 Traditionally, Project leadership was provided by a subset of
 Contributors, called Core Developers, whose active and consistent
-contributions have been recognized by their receiving “commit rights”
+contributions have been recognized by their receiving "commit rights"
 to the Project repositories. In general all Project decisions were
 made through consensus among the Core Developers with input from the
 Community.
@@ -168,11 +166,10 @@ attempts at communication and conflict resolution have failed.
 
 ### Conflict of interest
 
-It is expected that Council Members will be employed at a
-wide range of companies, universities and non-profit
-organizations. Because of this, it is possible that Members will have
-conflicts of interest. Such conflicts of interest include, but are not
-limited to:
+It is expected that Council Members will be employed at a wide range
+of companies, universities and non-profit organizations. Because of
+this, it is possible that Members will have conflicts of
+interest. Such conflicts of interest include, but are not limited to:
 
 - Financial interests, such as investments, employment or contracting
   work, outside of the Project that may influence their work on the

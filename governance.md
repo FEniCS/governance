@@ -5,6 +5,7 @@ individuals and institutions in the roles defined in the governance
 section below, is contained in The Project Governance Repository at
 <https://bitbucket.org/fenics-project/governance>
 
+
 ## The Project
 
 The FEniCS Project (The Project) is an open source software project
@@ -41,8 +42,8 @@ repositories:
 - [https://github.com/FEniCS/ffc/graphs/contributors](https://github.com/FEniCS/ffc/graphs/contributors)
 - [https://github.com/FEniCS/ufl/graphs/contributors](https://github.com/FEniCS/ufl/graphs/contributors)
 
-There are also many other Contributors listed in the logs of other repositories of
-FEniCS projects.
+There are also many other Contributors listed in the logs of other
+repositories of FEniCS projects.
 
 The Project Community consists of all Contributors and Users of the
 Project.  Contributors work on behalf of and are responsible to the
@@ -57,9 +58,11 @@ entity. NumFOCUS is the only legal entity that has a formal
 relationship with The Project (see Institutional Partners section
 below).
 
+
 ## Governance
 
-This section describes the governance and leadership model of The Project.
+This section describes the governance and leadership model of the
+Project.
 
 The foundations of Project governance are:
 
@@ -67,21 +70,20 @@ The foundations of Project governance are:
 - Active Contribution
 - Institutional Neutrality
 
-Traditionally, Project leadership was provided by a
-subset of Contributors, called Core Developers, whose
-active and consistent contributions have been recognized by their
-receiving “commit rights” to the Project repositories. In
-general all Project decisions were made through consensus among the
-Core Developers with input from the Community.
+Traditionally, Project leadership was provided by a subset of
+Contributors, called Core Developers, whose active and consistent
+contributions have been recognized by their receiving “commit rights”
+to the Project repositories. In general all Project decisions were
+made through consensus among the Core Developers with input from the
+Community.
 
 While this approach has served us well, as the Project grows and faces
 more legal and financial decisions and interacts with other
 institutions, we see a need for a more formal governance model. Moving
-forward The Project leadership will consist of a Steering Council. We
+forward the Project leadership will consist of a Steering Council. We
 view this governance model as the formalization of what we are already
 doing, rather than a change in direction.
 
-[AL: Some inconsistencies in 'the Project' vs 'The Project' etc.]
 
 ### Steering Council
 
@@ -112,10 +114,11 @@ situations.  In particular, the Council may:
 - Make decisions about specific technical issues, features, bugs and
   pull requests. They are the primary mechanism of guiding the code
   review process and merging pull requests.
-- Make decisions about the Services that are run by The Project and
+- Make decisions about the Services that are run by the Project and
   manage those Services for the benefit of the Project and Community.
 - Make decisions when regular community discussion doesn’t produce
   consensus on an issue in a reasonable time frame.
+
 
 ### Council membership
 
@@ -162,6 +165,7 @@ The Council reserves the right to eject current Members if they are
 deemed to be actively harmful to the project’s well-being, and
 attempts at communication and conflict resolution have failed.
 
+
 ### Conflict of interest
 
 It is expected that Council Members will be employed at a
@@ -171,7 +175,7 @@ conflicts of interest. Such conflicts of interest include, but are not
 limited to:
 
 - Financial interests, such as investments, employment or contracting
-  work, outside of The Project that may influence their work on The
+  work, outside of the Project that may influence their work on the
   Project.
 - Access to proprietary information of their employer that could
   potentially leak into their work with the Project.
@@ -181,16 +185,18 @@ any conflict of interest they may have. Members with a conflict of
 interest in a particular issue may participate in Council discussions
 on that issue, but must recuse themselves from voting on the issue.
 
+
 ### Private communications of the Council
 
 Unless specifically required, all Council discussions and activities
 will be public and done in collaboration and discussion with the
 Project Contributors and Community. The Council will have a private
-mailing list or chat channel that will be used sparingly and only when a specific
-matter requires privacy. When private communications and decisions are
-needed, the Council will do its best to summarize those to the
-Community after eliding personal/private/sensitive information that
-should not be posted to the public internet.
+mailing list or chat channel that will be used sparingly and only when
+a specific matter requires privacy. When private communications and
+decisions are needed, the Council will do its best to summarize those
+to the Community after eliding personal/private/sensitive information
+that should not be posted to the public internet.
+
 
 ### Subcommittees
 
@@ -201,6 +207,7 @@ public manner unless privacy is specifically called for. Private
 subcommittee communications should happen on the main private mailing
 list or chat channel of the Council unless specifically called for.
 All subcommittees report to Council.
+
 
 ### NumFOCUS Subcommittee
 
@@ -223,11 +230,12 @@ its interactions with NumFOCUS.
 
 [AL: Don't understand the last bullet point here, just remove?]
 
+
 ## Institutional Partners and Funding
 
-The Steering Council is the primary leadership for the
-project. No outside institution, individual or legal entity has the
-ability to own, control, usurp or influence the project other than by
+The Steering Council is the primary leadership for the project. No
+outside institution, individual or legal entity has the ability to
+own, control, usurp or influence the project other than by
 participating in the Project as Contributors and Council
 Members. However, because institutions are the primary funding
 mechanism for the project, it is important to formally acknowledge
@@ -252,11 +260,11 @@ of their official duties. To state this another way, the only way for
 an Institutional Partner to influence the project is by actively
 contributing to the open development of the project, on equal terms
 with any other member of the community of Contributors and Council
-Members. Merely using FEniCS Software or Services in an
-institutional context does not allow an entity to become an
-Institutional Partner. Financial gifts do not enable an entity to
-become an Institutional Partner. Once an institution becomes eligible
-for Institutional Partnership, the Steering Council must nominate and
+Members. Merely using FEniCS Software or Services in an institutional
+context does not allow an entity to become an Institutional
+Partner. Financial gifts do not enable an entity to become an
+Institutional Partner. Once an institution becomes eligible for
+Institutional Partnership, the Steering Council must nominate and
 approve the Partnership.
 
 If an existing Institutional Partner no longer has a contributing
@@ -270,43 +278,26 @@ for-profit company building proprietary products and services that
 leverage Project Software and Services. Funding acquired by
 Institutional Partners to work on The Project is called Institutional
 Funding. However, no funding obtained by an Institutional Partner can
-override the Steering Council. If a Partner has
-funding to do FEniCS work and the Council decides to not pursue that
-work as a project, the Partner is free to pursue it on their
-own. However in this situation, that part of the Partner’s work will
-not be under the FEniCS umbrella and cannot use the Project trademarks
-in a way that suggests a formal relationship.
+override the Steering Council. If a Partner has funding to do FEniCS
+work and the Council decides to not pursue that work as a project, the
+Partner is free to pursue it on their own. However in this situation,
+that part of the Partner’s work will not be under the FEniCS umbrella
+and cannot use the Project trademarks in a way that suggests a formal
+relationship.
 
 To acknowledge institutional contributions, there are two levels of
 Institutional Partners, with associated benefits:
 
 **Tier 1** = an institution with at least one Institutional Council Member
 
-- Acknowledged on FEniCS websites, in talks and T-shirts.
+- Acknowledged on FEniCS websites and in talks.
 - Ability to acknowledge their own funding sources on FEniCS websites,
-  in talks and T-shirts.
-- Unlimited participation in the annual Institutional Partners
-  Workshop, held during the (planned) annual FEniCS Project
-  Retreat. This allows the Institutional Partner to invite as many of
-  their own employees and funding sources and collaborators as they
-  want, even if they are not project Contributors or Council Members.
+  and in talks.
 - Ability to influence the project through the participation of their
   Council Member.
-- Council Members are invited to the bi-annual FEniCS Developer Meeting.
-
-[AL: Suggest removing T-shirts. Shouldn't we be able to make T-shirts without the need for including all university logos? This might be fine in many cases but sometimes the T-shirt migth be prettier without lots of logos.]
-
-[AL: What is the Project Retreat? Should it be Project Conference?]
-
-[AL: Do we have a biannual Developer Meeting?]
 
 **Tier 2** = an institution with at least one Institutional Contributor
 
-- Same benefits as Tier 1 level Partners, but:
-- Only Institutional Contributors are invited to the Institutional
-  Partners Workshop and bi-annual FEniCS Developer Meeting.
-
-[AL: Don't really understand the difference here. Looks like there is a very small difference between Tier 1 and Tier 2?]
 
 ## Changing the Governance Documents
 

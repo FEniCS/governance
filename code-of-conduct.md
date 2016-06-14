@@ -20,18 +20,26 @@ racist, or exclusionary jokes are not appropriate for FEniCS Project
 forums and events.
 
 Harassment includes, but is not limited to:
-* Offensive comments related to race, ethnicity, culture, national
+
+  * Offensive comments related to race, ethnicity, culture, national
   origin, color, immigration status, social and economic class,
   educational level, sexual orientation, gender, gender identity and
   expression, age, physical appearance, family status, political
   belief, religion, and mental and physical disability.
-* Sexual images in public spaces
-* Deliberate intimidation, stalking, or following
-* Harassing photography or recording
-* Sustained disruption of talks or other events
-* Inappropriate physical contact
-* Unwelcome sexual attention
-* Advocating for, or encouraging, any of the above behavior
+  
+  * Sexual images in public spaces
+
+  * Deliberate intimidation, stalking, or following
+  
+  * Harassing photography or recording
+  
+  * Sustained disruption of talks or other events
+
+  * Inappropriate physical contact
+  
+  * Unwelcome sexual attention
+
+  * Advocating for, or encouraging, any of the above behavior
 
 By following the guidelines above and consistently and fairly
 resolving any complaints we can make FEniCS Project forums and

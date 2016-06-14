@@ -19,7 +19,8 @@ Examples of Project Software include DOLFIN, the FEniCS Form Compiler
 the Project consist of public websites and web-services that are
 hosted under the fenicsproject.org domain.
 
-[AL: What about the test system which is technically not hosted under the fenicsproject.org domain?]
+[AL: What about the test system which is technically not hosted under
+the fenicsproject.org domain?]
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,

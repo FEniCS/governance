@@ -21,9 +21,6 @@ and/or operated by the Project consist of public websites and
 web-services that are hosted under the fenicsproject.org domain,
 and those listed at http://fenicsproject.org/services.
 
-[AL: What about the test system which is technically not hosted under
-the fenicsproject.org domain?]
-
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,
 documentation, designs or other work to one or more Project

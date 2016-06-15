@@ -216,10 +216,10 @@ its interactions with NumFOCUS.
   determined by the full Council.
 - This Subcommittee shall NOT make decisions about the direction,
   scope or technical direction of the Project.
-- This Subcommittee will have 3 members, all of whom will be current
-  Council Members. Members of this Subcommitee will not have the same
-  primary employer. This avoids effective majorities resting with
-  one organization.
+- All members of this Subcommittee will be current Council
+  Members. Members of this Subcommitee will not have the same primary
+  employer. This avoids effective majorities resting with one
+  organization.
 
 
 ## Institutional Partners and Funding

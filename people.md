@@ -12,6 +12,7 @@ Documents and its principles for Steering Council membership.*
 - Jack S. Hale (University of Luxembourg)
 - Anders Logg (Chalmers University of Technology)
 - Chris Richardson (University of Cambridge)
+- Johannes Ring (Simula Research Laboratory)
 - Marie E. Rognes (Simula Research Laboratory)
 - Garth N. Wells (University of Cambridge)
 
@@ -32,7 +33,7 @@ Institutional Council members are noted with each institution.
 - [Chalmers University of Technology](http://www.chalmers.se/) (Anders Logg)
 - [Charles University in Prague](http://www.cuni.cz/) (Jan Blechta)
 - [Simula Research Laboratory](http://www.simula.no/) (Martin Alnaes,
-  Marie E. Rognes)
+  Johannes Ring, Marie E. Rognes)
 - [University of Cambridge](http://www.cam.ac.uk/) (Chris Richardson,
   Garth N. Wells)
 - [University of Luxembourg](http://www.uni.lu/) (Jack S. Hale)

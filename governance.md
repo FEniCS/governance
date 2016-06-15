@@ -141,7 +141,7 @@ we explicitly do not define code as the sole metric on which Council
 membership will be evaluated. Furthermore, to not give too much
 influence to any one organization, the maximum number of Council
 Members from the same organization (university, research institute or
-company) is two.
+company) is four.
 
 If a Council member becomes inactive in the project for a period of
 one year, they will be considered for removal from the Council. Before
@@ -260,7 +260,7 @@ Funding. However, no funding obtained by an Institutional Partner can
 override the Steering Council. If a Partner has funding to do FEniCS
 work and the Council decides to not pursue that work as a project, the
 Partner is free to pursue it on their own. However in this situation,
-that part of the Partner’s work will not be under the FEniCS umbrella
+that part of the Partner's work will not be under the FEniCS umbrella
 and cannot use the Project trademarks in a way that suggests a formal
 relationship.
 

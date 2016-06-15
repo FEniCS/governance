@@ -216,14 +216,10 @@ its interactions with NumFOCUS.
   determined by the full Council.
 - This Subcommittee shall NOT make decisions about the direction,
   scope or technical direction of the Project.
-- This Subcommittee will have 5 members, 4 of whom will be current
-  Council Members and 1 of whom will be external to the Steering
-  Council. No more than 2 Subcommitee Members can report to one person
-  through employment or contracting work (including the reportee,
-  i.e. the reportee + 1 is the max). This avoids effective majorities
-  resting on one person.
-
-[AL: Don't understand the last bullet point here, just remove?]
+- This Subcommittee will have 3 members, all of whom will be current
+  Council Members. Members of this Subcommitee will not have the same
+  primary employer. This avoids effective majorities resting with
+  one organization.
 
 
 ## Institutional Partners and Funding

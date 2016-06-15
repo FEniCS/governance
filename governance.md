@@ -16,9 +16,10 @@ similar) open source license, developed openly and hosted in public
 repositories under the
 [FEniCS Bitbucket organization](https://bitbucket.org/fenics-project/).
 Examples of Project Software include DOLFIN, the FEniCS Form Compiler
-(FFC) and the Unified Form Language (UFL), etc. The Services run by
-the Project consist of public websites and web-services that are
-hosted under the fenicsproject.org domain.
+(FFC) and the Unified Form Language (UFL), etc. The Services run
+and/or operated by the Project consist of public websites and
+web-services that are hosted under the fenicsproject.org domain,
+and those listed at http://fenicsproject.org/services.
 
 [AL: What about the test system which is technically not hosted under
 the fenicsproject.org domain?]

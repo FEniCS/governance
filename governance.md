@@ -181,18 +181,6 @@ interest in a particular issue may participate in Council discussions
 on that issue, but must recuse themselves from voting on the issue.
 
 
-### Private communications of the Council
-
-Unless specifically required, all Council discussions and activities
-will be public and done in collaboration and discussion with the
-Project Contributors and Community. The Council will have a private
-mailing list or chat channel that will be used sparingly and only when
-a specific matter requires privacy. When private communications and
-decisions are needed, the Council will do its best to summarize those
-to the Community after eliding personal/private/sensitive information
-that should not be posted to the public internet.
-
-
 ### Subcommittees
 
 The Council can create subcommittees that provide leadership and

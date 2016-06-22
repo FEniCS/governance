@@ -26,8 +26,6 @@ Documents and its principles for Steering Council membership.*
 
 ## Institutional Partners
 
-### Tier 1
-
 Institutional Council members are noted with each institution.
 
 - [Chalmers University of Technology](http://www.chalmers.se/) (Anders Logg)
@@ -37,11 +35,6 @@ Institutional Council members are noted with each institution.
 - [University of Cambridge](http://www.cam.ac.uk/) (Chris Richardson,
   Garth N. Wells)
 - [University of Luxembourg](http://www.uni.lu/) (Jack S. Hale)
-
-
-### Tier 2
-
-- [XXX](https://www.foo.com/)
 
 
 ## New Steering Council Members

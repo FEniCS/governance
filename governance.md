@@ -228,10 +228,9 @@ any Project Steering Council Member who contributes to the project as
 part of their official duties at an Institutional Partner.
 
 With these definitions, an Institutional Partner is any recognized
-legal entity in the United States or elsewhere that employs at least
-one Institutional Contributor or Institutional Council
-Member. Institutional Partners can be for-profit or non-profit
-entities.
+legal entity that employs at least one Institutional Contributor or
+Institutional Council Member. Institutional Partners can be for-profit
+or non-profit entities.
 
 Institutions become eligible to become an Institutional Partner by
 employing individuals who actively contribute to The Project as part

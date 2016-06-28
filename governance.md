@@ -5,7 +5,6 @@ individuals and institutions in the roles defined in the governance
 section below, is contained in The Project Governance Repository at
 <https://bitbucket.org/fenics-project/governance>
 
-
 ## The Project
 
 The FEniCS Project (The Project) is an open source software project
@@ -19,7 +18,7 @@ Examples of Project Software include DOLFIN, the FEniCS Form Compiler
 (FFC) and the Unified Form Language (UFL), etc. The Services run
 and/or operated by the Project consist of public websites and
 web-services that are hosted under the fenicsproject.org domain,
-and those listed at http://fenicsproject.org/services.
+and those listed at https://fenicsproject.org/services.
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,

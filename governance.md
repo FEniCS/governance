@@ -41,7 +41,7 @@ There are also many other Contributors listed in the logs of other
 repositories of FEniCS projects.
 
 The Project Community consists of all Contributors and Users of the
-Project.  Contributors work on behalf of and are responsible to the
+Project. Contributors work on behalf of and are responsible to the
 larger Project Community and we strive to keep the barrier between
 Contributors and Users as low as possible.
 
@@ -53,10 +53,9 @@ entity. NumFOCUS is the only legal entity that has a formal
 relationship with The Project (see Institutional Partners section
 below).
 
-
 ## Governance
 
-This section describes the governance and leadership model of the
+This section describes the governance model of the
 Project.
 
 The foundations of Project governance are:
@@ -64,6 +63,13 @@ The foundations of Project governance are:
 - Openness & Transparency
 - Active Contribution
 - Institutional Neutrality
+
+The functions of Project governance are shared between:
+
+- Steering Council
+- Advisory Board
+
+### History
 
 Traditionally, Project leadership was provided by a subset of
 Contributors, called Core Developers, whose active and consistent
@@ -74,20 +80,16 @@ Community.
 
 While this approach has served us well, as the Project grows and faces
 more legal and financial decisions and interacts with other
-institutions, we see a need for a more formal governance model. Moving
-forward the Project leadership will consist of a Steering Council. We
-view this governance model as the formalization of what we are already
-doing, rather than a change in direction.
-
+institutions, we see a need for a more formal governance model.
 
 ### Steering Council
 
-The Project will have a Steering Council that consists of Project
+The Project has a Steering Council that consists of Project
 Contributors who have produced contributions that are substantial in
 quality and quantity, and sustained over at least one year. The
-overall role of the Council is to ensure, through working with and
-taking input from the Community, the long-term well-being of the
-project, both technically and as a community.
+role of the Council is to provide active leadership for the Project
+in making everyday decisions on technical and administrative issues,
+through working with and taking input from the Community, 
 
 During the everyday project activities, council members participate in
 all discussions, code review and other project activities as peers
@@ -100,7 +102,7 @@ Members will provide useful guidance, both technical and in terms of
 project direction, to potentially less experienced contributors.
 
 The Steering Council and its Members play a special role in certain
-situations.  In particular, the Council may:
+situations. In particular, the Council may:
 
 - Make decisions about the overall scope, vision and direction of
   the project.
@@ -114,8 +116,7 @@ situations.  In particular, the Council may:
 - Make decisions when regular community discussion doesn’t produce
   consensus on an issue in a reasonable time frame.
 
-
-### Council membership
+### Steering Council membership
 
 To become eligible for being a Steering Council Member an individual
 must be a Project Contributor who has produced contributions that are
@@ -160,10 +161,27 @@ The Council reserves the right to eject current Members if they are
 deemed to be actively harmful to the project’s well-being, and
 attempts at communication and conflict resolution have failed.
 
+### Advisory Board
+
+The Project has an Advisory Board that works to ensure the long-term
+well-being of the Project. The Board oversees the activities of the
+Steering Council and may be called upon to break deadlocks or serious
+disagreements in the Council. The Community can ask the Board to review
+actions taken by the Council, and the Board will meet annually to review
+all actions taken by the Council. The Board can direct the Council to
+take actions or revoke actions that have implications for the long-term
+well-being of the Project. Board decisions are taken in concencus.
+
+### Advisory Board membership
+
+Members of the Advisory Board are appointed by the Steering Council
+for a term of 5 years. The minimum number of Board Members is 5.
+Initial terms for Board Members will be 2, 3, 4 and 5 years to
+achieve a staggered grid of terms and ensure continuity of the Board.
 
 ### Conflict of interest
 
-It is expected that Council Members will be employed at a wide range
+It is expected that Council and Board Members will be employed at a wide range
 of companies, universities and non-profit organizations. Because of
 this, it is possible that Members will have conflicts of
 interest. Such conflicts of interest include, but are not limited to:
@@ -174,11 +192,10 @@ interest. Such conflicts of interest include, but are not limited to:
 - Access to proprietary information of their employer that could
   potentially leak into their work with the Project.
 
-All members of the Council shall disclose to the rest of the Council
+All members of the Council and Board shall disclose
 any conflict of interest they may have. Members with a conflict of
 interest in a particular issue may participate in Council discussions
 on that issue, but must recuse themselves from voting on the issue.
-
 
 ### Subcommittees
 
@@ -189,7 +206,6 @@ public manner unless privacy is specifically called for. Private
 subcommittee communications should happen on the main private mailing
 list or chat channel of the Council unless specifically called for.
 All subcommittees report to Council.
-
 
 ### NumFOCUS Subcommittee
 
@@ -207,7 +223,6 @@ its interactions with NumFOCUS.
   Members. Members of this Subcommitee will not have the same primary
   employer. This avoids effective majorities resting with one
   organization.
-
 
 ## Institutional Partners and Funding
 
@@ -274,7 +289,6 @@ Institutional Partners, with associated benefits:
   Council Member.
 
 **Tier 2** = an institution with at least one Institutional Contributor
-
 
 ## Changing the Governance Documents
 

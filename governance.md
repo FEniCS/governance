@@ -5,6 +5,7 @@ individuals and institutions in the roles defined in the governance
 section below, is contained in The Project Governance Repository at
 <https://bitbucket.org/fenics-project/governance>
 
+
 ## The Project
 
 The FEniCS Project (The Project) is an open source software project
@@ -17,8 +18,9 @@ repositories under the
 Examples of Project Software include DOLFIN, the FEniCS Form Compiler
 (FFC) and the Unified Form Language (UFL), etc. The Services run
 and/or operated by the Project consist of public websites and
-web-services that are hosted under the fenicsproject.org domain,
-and those listed at [https://fenicsproject.org/services](https://fenicsproject.org/services).
+web-services that are hosted under the fenicsproject.org domain, and
+those listed at
+[https://fenicsproject.org/services](https://fenicsproject.org/services).
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,
@@ -53,14 +55,13 @@ entity. NumFOCUS is the only legal entity that has a formal
 relationship with The Project (see Institutional Partners section
 below).
 
+
 ## Governance
 
-This section describes the governance model of the
-Project.
+This section describes the governance model of the Project. The
+foundations of Project governance are:
 
-The foundations of Project governance are:
-
-- Openness & Transparency
+- Openness and  Transparency
 - Active Contribution
 - Institutional Neutrality
 
@@ -68,6 +69,7 @@ The functions of Project governance are shared between:
 
 - Steering Council
 - Advisory Board
+
 
 ### History
 
@@ -82,14 +84,15 @@ While this approach has served us well, as the Project grows and faces
 more legal and financial decisions and interacts with other
 institutions, we see a need for a more formal governance model.
 
+
 ### Steering Council
 
 The Project has a Steering Council that consists of Project
 Contributors who have produced contributions that are substantial in
-quality and quantity, and sustained over at least one year. The
-role of the Council is to provide active leadership for the Project
-in making everyday decisions on technical and administrative issues,
-through working with and taking input from the Community, 
+quality and quantity, and sustained over at least one year. The role
+of the Council is to provide active leadership for the Project in
+making everyday decisions on technical and administrative issues,
+through working with and taking input from the Community,
 
 During the everyday project activities, council members participate in
 all discussions, code review and other project activities as peers
@@ -115,6 +118,7 @@ situations. In particular, the Council may:
   manage those Services for the benefit of the Project and Community.
 - Make decisions when regular community discussion doesn’t produce
   consensus on an issue in a reasonable time frame.
+
 
 ### Steering Council membership
 
@@ -161,30 +165,33 @@ The Council reserves the right to eject current Members if they are
 deemed to be actively harmful to the project’s well-being, and
 attempts at communication and conflict resolution have failed.
 
+
 ### Advisory Board
 
 The Project has an Advisory Board that works to ensure the long-term
-well-being of the Project. The Board oversees the activities of the
-Steering Council and may be called upon to break deadlocks or serious
-disagreements in the Council. The Community can ask the Board to review
-actions taken by the Council, and the Board will meet annually to review
-all actions taken by the Council. The Board can direct the Council to
-take actions or revoke actions that have implications for the long-term
-well-being of the Project. Board decisions are taken in concencus.
+well-being of the Project. The Board advises the Steering Council and
+may be called upon to break deadlocks or serious disagreements in the
+Council. The Community can ask the Board to review actions taken by
+the Council, and the Board will meet annually to review Project
+activities. Board decisions are taken in concencus.
+
 
 ### Advisory Board membership
 
 Members of the Advisory Board are appointed by the Steering Council
 for a term of 5 years. The minimum number of Board Members is 5.
-Initial terms for Board Members will be 2, 3, 4 and 5 years to
-achieve a staggered grid of terms and ensure continuity of the Board.
+Initial terms for Board Members will be 2, 3, 4 and 5 years to stagger
+(re)election to the Board. At the end of a term, an Advisory Board
+member may be reappointed by the Steering Council.
+
 
 ### Conflict of interest
 
-It is expected that Council and Board Members will be employed at a wide range
-of companies, universities and non-profit organizations. Because of
-this, it is possible that Members will have conflicts of
-interest. Such conflicts of interest include, but are not limited to:
+It is expected that Council and Board Members will be employed at a
+wide range of companies, universities and non-profit
+organizations. Because of this, it is possible that Members will have
+conflicts of interest. Such conflicts of interest include, but are not
+limited to:
 
 - Financial interests, such as investments, employment or contracting
   work, outside of the Project that may influence their work on the
@@ -192,10 +199,11 @@ interest. Such conflicts of interest include, but are not limited to:
 - Access to proprietary information of their employer that could
   potentially leak into their work with the Project.
 
-All members of the Council and Board shall disclose
-any conflict of interest they may have. Members with a conflict of
-interest in a particular issue may participate in Council discussions
-on that issue, but must recuse themselves from voting on the issue.
+All members of the Council and Board shall disclose any conflict of
+interest they may have. Members with a conflict of interest in a
+particular issue may participate in Council discussions on that issue,
+but must recuse themselves from voting on the issue.
+
 
 ### Subcommittees
 
@@ -206,6 +214,7 @@ public manner unless privacy is specifically called for. Private
 subcommittee communications should happen on the main private mailing
 list or chat channel of the Council unless specifically called for.
 All subcommittees report to Council.
+
 
 ### NumFOCUS Subcommittee
 
@@ -223,6 +232,7 @@ its interactions with NumFOCUS.
   Members. Members of this Subcommitee will not have the same primary
   employer. This avoids effective majorities resting with one
   organization.
+
 
 ## Institutional Partners and Funding
 

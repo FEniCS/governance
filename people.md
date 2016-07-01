@@ -1,4 +1,4 @@
-# Steering Council and Institutional Partners
+# Steering Council, Advisory Boatd and Institutional Partners
 
 *NOTE: This is a preliminary list that should be refined and voted on
 in conjunction with the ratification of the new FEniCS Governance
@@ -22,6 +22,11 @@ Documents and its principles for Steering Council membership.*
 - Anders Logg
 - Marie E. Rognes
 - Garth N. Wells
+
+
+## Advisory board
+
+- . . .
 
 
 ## Institutional Partners

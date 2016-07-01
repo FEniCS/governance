@@ -179,7 +179,8 @@ activities. Board decisions are taken in concencus.
 ### Advisory Board membership
 
 Members of the Advisory Board are appointed by the Steering Council
-for a term of 5 years. The minimum number of Board Members is 5.
+for a term of 5 years. The minimum number of Board Members is 5.  No
+two Advisory Board members may be employed by the same organistion.
 Initial terms for Board Members will be 2, 3, 4 and 5 years to stagger
 (re)election to the Board. At the end of a term, an Advisory Board
 member may be reappointed by the Steering Council.

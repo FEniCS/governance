@@ -282,18 +282,14 @@ that part of the Partner's work will not be under the FEniCS umbrella
 and cannot use the Project trademarks in a way that suggests a formal
 relationship.
 
-To acknowledge institutional contributions, there are two levels of
-Institutional Partners, with associated benefits:
-
-**Tier 1** = an institution with at least one Institutional Council Member
+To acknowledge institutional contributions, Institutional Partners
+will have the following benefits:
 
 - Acknowledged on FEniCS websites and in talks.
 - Ability to acknowledge their own funding sources on FEniCS websites,
   and in talks.
 - Ability to influence the project through the participation of their
   Council Member.
-
-**Tier 2** = an institution with at least one Institutional Contributor
 
 
 ## Changing the Governance Documents

@@ -15,7 +15,7 @@ entities.
 
 * [Main Governance Document](governance.md)
 * [Current Steering Council and Institutional Partners](people.md)
-* [Licensing and copyright](project-license.md)
+* [Licensing and Copyright](project-license.md)
 * [Code of Conduct](code-of-conduct.md)
 
 

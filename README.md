@@ -13,10 +13,10 @@ entities.
 
 ## Table of Contents
 
-* [Main governance document](governance.md)
+* [Main Governance Document](governance.md)
 * [Current Steering Council and Institutional Partners](people.md)
 * [Licensing and copyright](project-license.md)
-* [Code of conduct](code-of-conduct.md)
+* [Code of Conduct](code-of-conduct.md)
 
 
 ## License of Governance Documents

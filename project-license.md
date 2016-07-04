@@ -5,8 +5,8 @@ approved by the Open Source Initiative
 (https://opensource.org/). Currently we use the GNU LGPL version 3.0
 or later for most components.
 
-Refer to the `LICENSE` or `COPYING` files for each component for
-specific information.
+Refer to the `LICENSE`, `COPYING` or `COPYING.LESSER` files for each 
+component for specific information.
 
 ## Our Copyright Policy
 

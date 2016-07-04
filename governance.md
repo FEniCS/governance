@@ -61,14 +61,9 @@ below).
 This section describes the governance model of the Project. The
 foundations of Project governance are:
 
-- Openness and  Transparency
-- Active Contribution
-- Institutional Neutrality
-
-The functions of Project governance are shared between:
-
-- Steering Council
-- Advisory Board
+- Openness and transparency
+- Active contribution
+- Institutional neutrality
 
 
 ### History
@@ -173,14 +168,14 @@ well-being of the Project. The Board advises the Steering Council and
 may be called upon to break deadlocks or serious disagreements in the
 Council. The Community can ask the Board to review actions taken by
 the Council, and the Board will meet annually to review Project
-activities. Board decisions are taken in concencus.
+activities. Board decisions are taken in consensus.
 
 
 ### Advisory Board membership
 
-Members of the Advisory Board are appointed by the Steering Council
-for a term of 5 years. The minimum number of Board Members is 5.  No
-two Advisory Board members may be employed by the same organistion.
+A member of the Advisory Board is appointed by the Steering Council
+for a term of 5 years. The minimum number of Board Members is five.
+No two Advisory Board members may be employed by the same organistion.
 Members of the Steering Council can be members of the Advisory Board.
 Initial terms for Board Members will be 2, 3, 4 and 5 years to stagger
 (re)election to the Board. At the end of a term, an Advisory Board
@@ -301,6 +296,7 @@ Institutional Partners, with associated benefits:
   Council Member.
 
 **Tier 2** = an institution with at least one Institutional Contributor
+
 
 ## Changing the Governance Documents
 

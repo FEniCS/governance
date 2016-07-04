@@ -26,7 +26,7 @@ Documents and its principles for Steering Council membership.*
 
 ## Advisory board
 
-- . . .
+To be appointed by the Steering Council.
 
 
 ## Institutional Partners

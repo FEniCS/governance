@@ -47,7 +47,6 @@ Institutional Council members are noted with each institution.
 When a new Member joins the Steering Council, the following steps
 should be taken:
 - Announce the new Member on the FEniCS mailing list.
-- Make the new member an org owner for the FEniCS organization.
 - Add the new Member to the list in the governance repo, and if
   appropriate, add their affiliation to the Institutional Partner list
   (<https://bitbucket.org/fenics-project/governance/src/master/people.md>).

@@ -27,8 +27,8 @@ Contributors. Contributors are individuals who have contributed code,
 documentation, designs or other work to one or more Project
 repositories.  Anyone can be a Contributor. Contributors can be
 affiliated with any legal entity or none. Contributors participate in
-the project by submitting, reviewing and discussing Pull Requests and
-Issues and participating in open and public Project discussions on
+the project by submitting, reviewing and discussing pull requests and
+issues and participating in open and public Project discussions on
 Bitbucket, Google+, Slack channels and mailing lists. The foundation
 of Project participation is openness and transparency.
 

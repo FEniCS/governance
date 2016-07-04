@@ -10,17 +10,17 @@ specific information.
 
 ## Our Copyright Policy
 
-FEniCS uses a shared copyright model. Each contributor maintains
+FEniCS uses a shared copyright model. Each Contributor maintains
 copyright over their contributions to FEniCS. Thus, the FEniCS source
-code, in its entirety is not the copyright of any single person or
+code in its entirety is not the copyright of any single person or
 institution. Instead, it is the collective copyright of the entire
-FEniCS Development Team.  If individual contributors want to maintain
+FEniCS Development Team. If individual Contributors want to maintain
 a record of what changes/contributions they have specific copyright
 on, they should indicate their copyright in the commit message of the
 change, when they commit the change to one of the FEniCS repositories.
 
 To protect the FEniCS copyright model, contributors must sign a
-copyright consent form. Ideally, both the contributor and their
+copyright consent form. Ideally, both the Contributor and their
 employer will sign a form.  Copies of signed consent forms are
 archived for authors and institutions at
 http://fenicsproject.org/pub/copyright.

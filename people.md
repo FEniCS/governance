@@ -1,4 +1,4 @@
-# Steering Council, Advisory Boatd and Institutional Partners
+# Steering Council, Advisory Board and Institutional Partners
 
 *NOTE: This is a preliminary list that should be refined and voted on
 in conjunction with the ratification of the new FEniCS Governance
@@ -44,12 +44,12 @@ Institutional Council members are noted with each institution.
 
 ## New Steering Council Members
 
-When a new member joins the steering council, the following steps
+When a new Member joins the Steering Council, the following steps
 should be taken:
-- Announce the new member on the FEniCS mailing list
-- Make the new member an org owner for the FEniCS organization
-- Add the new member to the list in the governance repo, and if
-  appropriate, add their affiliation to the institutional partner list
-  (<https://bitbucket.org/fenics-project/governance/src/master/people.md>)
-- Add the new member to the list of steering council members on the
-  website (<https://fenicsproject.org/about/>)
+- Announce the new Member on the FEniCS mailing list.
+- Make the new member an org owner for the FEniCS organization.
+- Add the new Member to the list in the governance repo, and if
+  appropriate, add their affiliation to the Institutional Partner list
+  (<https://bitbucket.org/fenics-project/governance/src/master/people.md>).
+- Add the new member to the list of Steering Council members on the
+  website (<https://fenicsproject.org/about/>).

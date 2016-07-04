@@ -117,11 +117,11 @@ situations. In particular, the Council may:
 
 ### Steering Council membership
 
-To become eligible for being a Steering Council Member an individual
+To become eligible for being a Steering Council Member, an individual
 must be a Project Contributor who has produced contributions that are
 substantial in quality and quantity, and sustained over at least one
 year. Potential Council Members are nominated by existing Council
-members and voted upon by the existing Council after asking if the
+Members or by the Community and voted upon by the existing Council after asking if the
 potential Member is interested and willing to serve in that
 capacity. The Council will be initially formed from the set of
 existing Core Developers who, as of mid 2016, have been significantly
@@ -142,10 +142,10 @@ influence to any one organization, the maximum number of Council
 Members from the same organization (university, research institute or
 company) is four.
 
-If a Council member becomes inactive in the project for a period of
+If a Council Member becomes inactive in the project for a period of
 one year, they will be considered for removal from the Council. Before
 removal, the inactive Member will be approached by another Council
-member to see if they plan on returning to active participation. If
+member to ask if they plan on returning to active participation. If
 not they will be removed immediately upon a Council vote. If they plan
 on returning to active participation soon, they will be given a grace
 period of one year. If they do not return to active participation
@@ -157,7 +157,7 @@ the project website, acknowledging the period during which they were
 active in the Council.
 
 The Council reserves the right to eject current Members if they are
-deemed to be actively harmful to the project’s well-being, and
+deemed to be actively harmful to the Project’s well-being, and
 attempts at communication and conflict resolution have failed.
 
 
@@ -175,7 +175,7 @@ activities. Board decisions are taken in consensus.
 
 A member of the Advisory Board is appointed by the Steering Council
 for a term of 5 years. The minimum number of Board Members is five.
-No two Advisory Board members may be employed by the same organistion.
+No two Advisory Board Members may be employed by the same organisation.
 Members of the Steering Council can be members of the Advisory Board.
 Initial terms for Board Members will be 2, 3, 4 and 5 years to stagger
 (re)election to the Board. At the end of a term, an Advisory Board
@@ -223,12 +223,10 @@ its interactions with NumFOCUS.
   these funds will be spent in a manner that is consistent with the
   non-profit mission of NumFOCUS and the direction of the Project as
   determined by the full Council.
-- This Subcommittee shall NOT make decisions about the direction,
+- This Subcommittee shall not make decisions about the direction,
   scope or technical direction of the Project.
-- All members of this Subcommittee will be current Council
-  Members. Members of this Subcommitee will not have the same primary
-  employer. This avoids effective majorities resting with one
-  organization.
+- All Members of this Subcommittee will be current Council
+  Members. No two Members of this Subcommittee may be employed by the same organisation.
 
 
 ## Institutional Partners and Funding
@@ -236,28 +234,28 @@ its interactions with NumFOCUS.
 The Steering Council is the primary leadership for the project. No
 outside institution, individual or legal entity has the ability to
 own, control, usurp or influence the project other than by
-participating in the Project as Contributors and Council
-Members. However, because institutions are the primary funding
+participating in the Project as Contributors, Council
+Members or Advisory Board Members. However, because institutions are the primary funding
 mechanism for the project, it is important to formally acknowledge
 institutional participation in the project. These are Institutional
 Partners.
 
 An Institutional Contributor is any individual Project Contributor who
-contributes to the project as part of their official duties at an
+contributes to the Project as part of their official duties at an
 Institutional Partner. Likewise, an Institutional Council Member is
 any Project Steering Council Member who contributes to the project as
 part of their official duties at an Institutional Partner.
 
-With these definitions, an Institutional Partner is any recognized
+With these definitions, an Institutional Partner is any recognised
 legal entity that employs at least one Institutional Contributor or
 Institutional Council Member. Institutional Partners can be for-profit
 or non-profit entities.
 
-Institutions become eligible to become an Institutional Partner by
+Institutions are eligible to become an Institutional Partner by
 employing individuals who actively contribute to The Project as part
 of their official duties. To state this another way, the only way for
-an Institutional Partner to influence the project is by actively
-contributing to the open development of the project, on equal terms
+an Institutional Partner to influence the Project is by actively
+contributing to the open development of the Project, on equal terms
 with any other member of the community of Contributors and Council
 Members. Merely using FEniCS Software or Services in an institutional
 context does not allow an entity to become an Institutional
@@ -302,15 +300,15 @@ Institutional Partners, with associated benefits:
 
 Changes to the governance documents are submitted via a pull request
 to The Project's governance documents repository at
-<https://bitbucket.org/fenics-project/governance>.  The pull request
+<https://bitbucket.org/fenics-project/governance>. The pull request
 is then refined in response to public comment and review, with the
-goal being consensus in the community.  After this open period, a
+goal being consensus in the community. After this open period, a
 Steering Council Member proposes to the Steering Council that the
 changes be ratified and the pull request merged (accepting the
 proposed changes) or proposes that the pull request be closed without
-merging (rejecting the proposed changes).  The Member should state the
+merging (rejecting the proposed changes). The Member should state the
 final commit hash in the pull request being proposed for acceptance or
-rejection and briefly summarize the pull request. A minimum of 80% of
+rejection and briefly summarise the pull request. A minimum of 80% of
 the Steering Council must vote and at least 2/3 of the votes must be
 positive to carry out the proposed action (fractions of a vote rounded
 up to the nearest integer).

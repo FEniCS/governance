@@ -86,7 +86,7 @@ Contributors who have produced contributions that are substantial in
 quality and quantity, and sustained over at least one year. The role
 of the Council is to provide active leadership for the Project in
 making everyday decisions on technical and administrative issues,
-through working with and taking input from the Community,
+through working with and taking input from the Community.
 
 During the everyday project activities, Council Members participate in
 all discussions, code review and other project activities as peers

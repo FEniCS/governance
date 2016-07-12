@@ -2,10 +2,10 @@
 
 Every component of the FEniCS Project is distributed under a license
 approved by the Open Source Initiative
-(https://opensource.org/). Currently we use the GNU LGPL version 3.0
+(<https://opensource.org/>). Currently we use the GNU LGPL version 3.0
 or later for most components.
 
-Refer to the `LICENSE`, `COPYING` or `COPYING.LESSER` files for each 
+Refer to the `LICENSE`, `COPYING` or `COPYING.LESSER` files for each
 component for specific information.
 
 ## Our Copyright Policy
@@ -23,4 +23,4 @@ To protect the FEniCS copyright model, contributors must sign a
 copyright consent form. Ideally, both the Contributor and their
 employer will sign a form.  Copies of signed consent forms are
 archived for authors and institutions at
-http://fenicsproject.org/pub/copyright.
+<http://fenicsproject.org/pub/copyright>.

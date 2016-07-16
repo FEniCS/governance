@@ -113,6 +113,10 @@ situations. In particular, the Council may:
 - Make decisions when regular community discussion doesn’t produce
   consensus on an issue in a reasonable time frame.
 
+Steering Council decisions are taken by simple majority, with the
+exception of changes to the Governance Documents which follow the
+procedure in the section 'Changing the Governance Documents'.
+
 
 ### Steering Council membership
 

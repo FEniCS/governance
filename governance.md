@@ -13,22 +13,21 @@ affiliated with the 501c3 NumFocus Foundation. The goal of The Project
 is to develop open source software for scientific computing. The
 Software developed by The Project is released under the LGPL (or
 similar) open source license, developed openly and hosted in public
-repositories under the
-[FEniCS Bitbucket organization](https://bitbucket.org/fenics-project/).
-Examples of Project Software include DOLFIN, the FEniCS Form Compiler
-(FFC) and the Unified Form Language (UFL), etc. The Services run
-and/or operated by the Project consist of public websites and
-web-services that are hosted under the fenicsproject.org domain, and
-those listed at
+repositories under the [FEniCS Bitbucket
+organisation](https://bitbucket.org/fenics-project/). Examples of
+Project Software include DOLFIN, the FEniCS Form Compiler (FFC) and
+the Unified Form Language (UFL), etc. The Services run and/or operated
+by the Project consist of public websites and web-services that are
+hosted under the fenicsproject.org domain, and those listed at
 [https://fenicsproject.org/services](https://fenicsproject.org/services).
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,
 documentation, designs or other work to one or more Project
-repositories.  Anyone can be a Contributor. Contributors can be
+repositories. Anyone can be a Contributor. Contributors can be
 affiliated with any legal entity or none. Contributors participate in
-the project by submitting, reviewing and discussing Pull Requests and
-Issues and participating in open and public Project discussions on
+the project by submitting, reviewing and discussing pull requests and
+issues and participating in open and public Project discussions on
 Bitbucket, Google+, Slack channels and mailing lists. The foundation
 of Project participation is openness and transparency.
 
@@ -70,7 +69,7 @@ foundations of Project governance are:
 
 Traditionally, Project leadership was provided by a subset of
 Contributors, called Core Developers, whose active and consistent
-contributions have been recognized by their receiving "commit rights"
+contributions have been recognised by their receiving "commit rights"
 to the Project repositories. In general all Project decisions were
 made through consensus among the Core Developers with input from the
 Community.
@@ -87,9 +86,9 @@ Contributors who have produced contributions that are substantial in
 quality and quantity, and sustained over at least one year. The role
 of the Council is to provide active leadership for the Project in
 making everyday decisions on technical and administrative issues,
-through working with and taking input from the Community,
+through working with and taking input from the Community.
 
-During the everyday project activities, council members participate in
+During the everyday project activities, Council Members participate in
 all discussions, code review and other project activities as peers
 with all other Contributors and the Community. In these everyday
 activities, Council Members do not have any special power or privilege
@@ -97,7 +96,7 @@ through their membership on the Council. However, it is expected that
 because of the quality and quantity of their contributions and their
 expert knowledge of the Project Software and Services that Council
 Members will provide useful guidance, both technical and in terms of
-project direction, to potentially less experienced contributors.
+project direction, to potentially less experienced Contributors.
 
 The Steering Council and its Members play a special role in certain
 situations. In particular, the Council may:
@@ -105,7 +104,7 @@ situations. In particular, the Council may:
 - Make decisions about the overall scope, vision and direction of
   the project.
 - Make decisions about strategic collaborations with other
-  organizations or individuals.
+  organisations or individuals.
 - Make decisions about specific technical issues, features, bugs and
   pull requests. They are the primary mechanism of guiding the code
   review process and merging pull requests.
@@ -114,18 +113,22 @@ situations. In particular, the Council may:
 - Make decisions when regular community discussion doesn’t produce
   consensus on an issue in a reasonable time frame.
 
+Steering Council decisions are taken by simple majority, with the
+exception of changes to the Governance Documents which follow the
+procedure in the section 'Changing the Governance Documents'.
+
 
 ### Steering Council membership
 
-To become eligible for being a Steering Council Member an individual
+To become eligible for being a Steering Council Member, an individual
 must be a Project Contributor who has produced contributions that are
 substantial in quality and quantity, and sustained over at least one
 year. Potential Council Members are nominated by existing Council
-members and voted upon by the existing Council after asking if the
-potential Member is interested and willing to serve in that
-capacity. The Council will be initially formed from the set of
-existing Core Developers who, as of mid 2016, have been significantly
-active over the last year.
+Members or by the Community and voted upon by the existing Council
+after asking if the potential Member is interested and willing to
+serve in that capacity. The Council will be initially formed from the
+set of existing Core Developers who, as of mid 2016, have been
+significantly active over the last year.
 
 When considering potential Members, the Council will look at
 candidates with a comprehensive view of their contributions. This will
@@ -138,26 +141,26 @@ than the project’s overall well-being. We want to encourage a diverse
 array of backgrounds, viewpoints and talents in our team, which is why
 we explicitly do not define code as the sole metric on which Council
 membership will be evaluated. Furthermore, to not give too much
-influence to any one organization, the maximum number of Council
-Members from the same organization (university, research institute or
+influence to any one organisation, the maximum number of Council
+Members from the same organisation (university, research institute or
 company) is four.
 
-If a Council member becomes inactive in the project for a period of
+If a Council Member becomes inactive in the project for a period of
 one year, they will be considered for removal from the Council. Before
 removal, the inactive Member will be approached by another Council
-member to see if they plan on returning to active participation. If
+member to ask if they plan on returning to active participation. If
 not they will be removed immediately upon a Council vote. If they plan
 on returning to active participation soon, they will be given a grace
 period of one year. If they do not return to active participation
 within that time period they will be removed by vote of the Council
 without further grace period. All former Council members can be
 considered for membership again at any time in the future, like any
-other Project Contributor.  Retired Council members will be listed on
+other Project Contributor. Retired Council members will be listed on
 the project website, acknowledging the period during which they were
 active in the Council.
 
 The Council reserves the right to eject current Members if they are
-deemed to be actively harmful to the project’s well-being, and
+deemed to be actively harmful to the Project’s well-being, and
 attempts at communication and conflict resolution have failed.
 
 
@@ -175,18 +178,18 @@ activities. Board decisions are taken in consensus.
 
 A member of the Advisory Board is appointed by the Steering Council
 for a term of 5 years. The minimum number of Board Members is five.
-No two Advisory Board members may be employed by the same organistion.
-Members of the Steering Council can be members of the Advisory Board.
-Initial terms for Board Members will be 2, 3, 4 and 5 years to stagger
-(re)election to the Board. At the end of a term, an Advisory Board
-member may be reappointed by the Steering Council.
+No two Advisory Board Members may be employed by the same
+organisation.  Members of the Steering Council can be members of the
+Advisory Board.  Initial terms for Board Members will be 2, 3, 4 and 5
+years to stagger (re)election to the Board. At the end of a term, an
+Advisory Board member may be reappointed by the Steering Council.
 
 
 ### Conflict of interest
 
 It is expected that Council and Board Members will be employed at a
 wide range of companies, universities and non-profit
-organizations. Because of this, it is possible that Members will have
+organisations. Because of this, it is possible that Members will have
 conflicts of interest. Such conflicts of interest include, but are not
 limited to:
 
@@ -223,12 +226,10 @@ its interactions with NumFOCUS.
   these funds will be spent in a manner that is consistent with the
   non-profit mission of NumFOCUS and the direction of the Project as
   determined by the full Council.
-- This Subcommittee shall NOT make decisions about the direction,
+- This Subcommittee shall not make decisions about the direction,
   scope or technical direction of the Project.
-- All members of this Subcommittee will be current Council
-  Members. Members of this Subcommitee will not have the same primary
-  employer. This avoids effective majorities resting with one
-  organization.
+- All Members of this Subcommittee will be current Council
+  Members. No two Members of this Subcommittee may be employed by the same organisation.
 
 
 ## Institutional Partners and Funding
@@ -236,28 +237,28 @@ its interactions with NumFOCUS.
 The Steering Council is the primary leadership for the project. No
 outside institution, individual or legal entity has the ability to
 own, control, usurp or influence the project other than by
-participating in the Project as Contributors and Council
-Members. However, because institutions are the primary funding
-mechanism for the project, it is important to formally acknowledge
-institutional participation in the project. These are Institutional
-Partners.
+participating in the Project as Contributors, Council Members or
+Advisory Board Members. However, because institutions are the primary
+funding mechanism for the project, it is important to formally
+acknowledge institutional participation in the project. These are
+Institutional Partners.
 
 An Institutional Contributor is any individual Project Contributor who
-contributes to the project as part of their official duties at an
+contributes to the Project as part of their official duties at an
 Institutional Partner. Likewise, an Institutional Council Member is
 any Project Steering Council Member who contributes to the project as
 part of their official duties at an Institutional Partner.
 
-With these definitions, an Institutional Partner is any recognized
+With these definitions, an Institutional Partner is any recognised
 legal entity that employs at least one Institutional Contributor or
 Institutional Council Member. Institutional Partners can be for-profit
 or non-profit entities.
 
-Institutions become eligible to become an Institutional Partner by
+Institutions are eligible to become an Institutional Partner by
 employing individuals who actively contribute to The Project as part
 of their official duties. To state this another way, the only way for
-an Institutional Partner to influence the project is by actively
-contributing to the open development of the project, on equal terms
+an Institutional Partner to influence the Project is by actively
+contributing to the open development of the Project, on equal terms
 with any other member of the community of Contributors and Council
 Members. Merely using FEniCS Software or Services in an institutional
 context does not allow an entity to become an Institutional
@@ -272,7 +273,7 @@ employees to begin contributing.
 
 An Institutional Partner is free to pursue funding for their work on
 The Project through any legal means. This could involve a non-profit
-organization raising money from private foundations and donors or a
+organisation raising money from private foundations and donors or a
 for-profit company building proprietary products and services that
 leverage Project Software and Services. Funding acquired by
 Institutional Partners to work on The Project is called Institutional
@@ -284,10 +285,8 @@ that part of the Partner's work will not be under the FEniCS umbrella
 and cannot use the Project trademarks in a way that suggests a formal
 relationship.
 
-To acknowledge institutional contributions, there are two levels of
-Institutional Partners, with associated benefits:
-
-**Tier 1** = an institution with at least one Institutional Council Member
+To acknowledge institutional contributions, Institutional Partners
+will have the following benefits:
 
 - Acknowledged on FEniCS websites and in talks.
 - Ability to acknowledge their own funding sources on FEniCS websites,
@@ -295,22 +294,20 @@ Institutional Partners, with associated benefits:
 - Ability to influence the project through the participation of their
   Council Member.
 
-**Tier 2** = an institution with at least one Institutional Contributor
-
 
 ## Changing the Governance Documents
 
 Changes to the governance documents are submitted via a pull request
 to The Project's governance documents repository at
-<https://bitbucket.org/fenics-project/governance>.  The pull request
-is then refined in response to public comment and review, with the
-goal being consensus in the community.  After this open period, a
-Steering Council Member proposes to the Steering Council that the
-changes be ratified and the pull request merged (accepting the
-proposed changes) or proposes that the pull request be closed without
-merging (rejecting the proposed changes).  The Member should state the
-final commit hash in the pull request being proposed for acceptance or
-rejection and briefly summarize the pull request. A minimum of 80% of
-the Steering Council must vote and at least 2/3 of the votes must be
-positive to carry out the proposed action (fractions of a vote rounded
-up to the nearest integer).
+<https://bitbucket.org/fenics-project/governance>. The pull request is
+then refined in response to public comment and review, with the goal
+being consensus in the community. After this open period, a Steering
+Council Member proposes to the Steering Council that the changes be
+ratified and the pull request merged (accepting the proposed changes)
+or proposes that the pull request be closed without merging (rejecting
+the proposed changes). The Member should state the final commit hash
+in the pull request being proposed for acceptance or rejection and
+briefly summarise the pull request. A minimum of 80% of the Steering
+Council must vote and at least 2/3 of the votes must be positive to
+carry out the proposed action (fractions of a vote rounded up to the
+nearest integer).

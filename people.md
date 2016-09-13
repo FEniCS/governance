@@ -8,7 +8,7 @@ Documents and its principles for Steering Council membership.*
 ## Steering Council
 
 - Martin S. Alnaes (Simula Research Laboratory)
-- Jan Blechta (Charles University in Prague)
+- Jan Blechta (Charles University)
 - Jack S. Hale (University of Luxembourg)
 - Anders Logg (Chalmers University of Technology)
 - Chris Richardson (University of Cambridge)
@@ -34,7 +34,7 @@ To be appointed by the Steering Council.
 Institutional Council members are noted with each institution.
 
 - [Chalmers University of Technology](http://www.chalmers.se/) (Anders Logg)
-- [Charles University in Prague](http://www.cuni.cz/) (Jan Blechta)
+- [Charles University](http://www.cuni.cz/) (Jan Blechta)
 - [Simula Research Laboratory](http://www.simula.no/) (Martin Alnaes,
   Johannes Ring, Marie E. Rognes)
 - [University of Cambridge](http://www.cam.ac.uk/) (Chris Richardson,

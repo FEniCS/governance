@@ -1,9 +1,5 @@
 # Steering Council, Advisory Board and Institutional Partners
 
-*NOTE: This is a preliminary list that should be refined and voted on
-in conjunction with the ratification of the new FEniCS Governance
-Documents and its principles for Steering Council membership.*
-
 
 ## Steering Council
 

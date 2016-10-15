@@ -24,6 +24,8 @@
 
 To be appointed by the Steering Council.
 
+- L. Ridgway Scott (University of Chicago)
+
 
 ## Institutional Partners
 

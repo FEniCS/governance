@@ -26,6 +26,7 @@ To be appointed by the Steering Council.
 
 - Douglas N. Arnold (University of Minnesota)
 - L. Ridgway Scott (University of Chicago)
+- Sumiu Uchida (Mitsubishi Heavy Industries)
 
 
 ## Institutional Partners

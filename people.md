@@ -25,9 +25,10 @@
 To be appointed by the Steering Council.
 
 - Douglas N. Arnold (University of Minnesota)
+- Lois Curfman McInnes (Argonne National Laboratory)
+- David Keyes (King Abdullah University of Science and Technology)
 - L. Ridgway Scott (University of Chicago)
 - Sumiu Uchida (Mitsubishi Heavy Industries)
-- David Keyes (King Abdullah University of Science and Technology)
 
 ## Institutional Partners
 

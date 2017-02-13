@@ -2,7 +2,7 @@
 
 The following services are officially operated by the FEniCS Project.
 
-- [Benchbot](https://fenicsproject.org/benchbot)
+- [Benchbot](http://fenics-bamboo.simula.no:8085/browse/DOL-DB/latest/artifact/JOB1/Benchmarks/index.html)
 - [Bitbucket](https://bitbucket.org/fenics-project)
 - [Development mailing list](https://groups.google.com/forum/#!forum/fenics-dev)
 - [Docker image builder](https://quay.io/organization/fenicsproject)

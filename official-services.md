@@ -15,5 +15,5 @@ The following services are officially operated by the FEniCS Project.
 - [Support mailing list](https://groups.google.com/forum/#!forum/fenics-support)
 - [Test system (Bamboo)](https://bamboo.fenicsproject.org/)
 - [Twitter feed curated from #fenicsnews tag](https://twitter.com/search?q=%23fenicsnews&src=typd)
-- [Ubuntu PPA](https://launchpad.net/ubuntu/+ppas)
+- [Ubuntu PPA](https://launchpad.net/~fenics-packages/+archive/ubuntu/fenics)
 - [Website](https://fenicsproject.org)

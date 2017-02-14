@@ -7,7 +7,6 @@ The following services are officially operated by the FEniCS Project.
 - [Conda package feed](https://anaconda.org/conda-forge/fenics) maintained at [Github](https://github.com/conda-forge/fenics-feedstock/)
 - [Development mailing list](https://groups.google.com/forum/#!forum/fenics-dev)
 - [Docker image builder](https://quay.io/organization/fenicsproject)
-- [FEniCS tutorial](https://hplgit.github.io/fenics-tutorial/doc/web/index.html)
 - [Github](https://github.com/fenics)
 - [Google+](https://plus.google.com/communities/105550716956576029273)
 - [readthedocs.org](https://fenics.readthedocs.io/en/latest/)

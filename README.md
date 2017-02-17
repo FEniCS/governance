@@ -14,7 +14,7 @@ entities.
 * [Current Steering Council and Institutional Partners](people.md)
 * [Licensing and Copyright](project-license.md)
 * [Code of Conduct](code-of-conduct.md)
-
+* [List of official services](official-services.md)
 
 ## License of Governance Documents
 

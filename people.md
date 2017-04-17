@@ -35,7 +35,7 @@ To be appointed by the Steering Council.
 Institutional Council members are noted with each institution.
 
 - [Chalmers University of Technology](http://www.chalmers.se/) (Anders Logg)
-- [Charles University](http://www.cuni.cz/) (Jan Blechta)
+- [Charles University](https://cuni.cz/UKEN-1.html) (Jan Blechta)
 - [Simula Research Laboratory](http://www.simula.no/) (Martin Alnaes,
   Johannes Ring, Marie E. Rognes)
 - [University of Cambridge](http://www.cam.ac.uk/) (Chris Richardson,

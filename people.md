@@ -22,8 +22,6 @@
 
 ## Advisory board
 
-To be appointed by the Steering Council.
-
 - Douglas N. Arnold (University of Minnesota)
 - Lois Curfman McInnes (Argonne National Laboratory)
 - David Keyes (King Abdullah University of Science and Technology)

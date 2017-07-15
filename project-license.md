@@ -20,7 +20,12 @@ they should indicate their copyright in the commit message of the
 change, when they commit the change to one of the FEniCS repositories.
 
 To protect the FEniCS copyright model, contributors must sign a
-copyright consent form. Ideally, both the Contributor and their
-employer will sign a form.  Copies of signed consent forms are
-archived for authors and institutions at
-<http://fenicsproject.org/pub/copyright>.
+copyright consent form. Ideally, both the contributor and their
+employer will sign a form. Scans of signed consent forms in PDF
+format should be sent to
+[the steering council](mailto:fenics-steering-council@googlegroups.com).
+Originals are retained by the council and copies with personal
+information redacted are available at <http://fenicsproject.org/pub/copyright>.
+Templates of the forms are available at
+<https://fenicsproject.org/pub/copyright/forms> with the source code at
+<https://bitbucket.org/fenics-project/governance/src/master/copyright-consent-forms>.

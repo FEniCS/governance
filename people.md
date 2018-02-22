@@ -3,7 +3,6 @@
 
 ## Steering Council
 
-- Martin S. Alnaes (Simula Research Laboratory)
 - Jan Blechta (Charles University, Chemnitz University of Technology)
 - Jack S. Hale (University of Luxembourg)
 - Anders Logg (Chalmers University of Technology)
@@ -32,11 +31,13 @@
 
 Institutional Council members are noted with each institution.
 
-- [Chalmers University of Technology](http://www.chalmers.se/) (Anders Logg)
+- [Chalmers University of Technology](http://www.chalmers.se/) (Anders
+  Logg)
 - [Charles University](https://cuni.cz/UKEN-1.html) (Jan Blechta)
-- [Chemnitz University of Technology](https://www.tu-chemnitz.de/) (Jan Blechta)
-- [Simula Research Laboratory](http://www.simula.no/) (Martin Alnaes,
-  Johannes Ring, Marie E. Rognes)
+- [Chemnitz University of Technology](https://www.tu-chemnitz.de/)
+  (Jan Blechta)
+- [Simula Research Laboratory](http://www.simula.no/) (Johannes Ring
+  and Marie E. Rognes)
 - [University of Cambridge](http://www.cam.ac.uk/) (Chris Richardson,
   Garth N. Wells)
 - [University of Luxembourg](http://www.uni.lu/) (Jack S. Hale)

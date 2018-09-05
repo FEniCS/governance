@@ -10,6 +10,10 @@
 - Marie E. Rognes (Simula Research Laboratory)
 - Garth N. Wells (University of Cambridge)
 
+### Retired council members
+
+- 2016-2018 Jan Blechta (Charles University, Chemnitz University of Technology)
+- 2016-2018 Martin S. Alnæs (Simula Research Laboratory)
 
 ### NumFOCUS Subcommittee
 

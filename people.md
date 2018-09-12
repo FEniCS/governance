@@ -3,11 +3,13 @@
 
 ## Steering Council
 
+- Michal Habera (University of Luxembourg)
 - Jack S. Hale (University of Luxembourg)
 - Anders Logg (Chalmers University of Technology)
 - Chris Richardson (University of Cambridge)
 - Johannes Ring (Simula Research Laboratory)
 - Marie E. Rognes (Simula Research Laboratory)
+- Nathan (Nate) Sime (Carnegie Institution for Science)
 - Garth N. Wells (University of Cambridge)
 
 
@@ -37,7 +39,7 @@ Institutional Council members are noted with each institution.
   and Marie E. Rognes)
 - [University of Cambridge](http://www.cam.ac.uk/) (Chris Richardson,
   Garth N. Wells)
-- [University of Luxembourg](http://www.uni.lu/) (Jack S. Hale)
+- [University of Luxembourg](http://www.uni.lu/) (Michal Habera, Jack S. Hale)
 
 
 ## New Steering Council Members

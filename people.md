@@ -15,14 +15,13 @@
 ### Retired council members
 
 - 2016-2018 Jan Blechta (Charles University, Chemnitz University of Technology)
-- 2016-2018 Martin S. AlnÃ¦s (Simula Research Laboratory)
+- 2016-2018 Martin S. Alnæs (Simula Research Laboratory)
 
 ### NumFOCUS Subcommittee
 
-- Anders Logg
+- Jack S. Hale
+- Chris Richardson
 - Marie E. Rognes
-- Garth N. Wells
-
 
 ## Advisory board
 

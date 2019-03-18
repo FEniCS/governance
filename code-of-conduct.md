@@ -71,8 +71,12 @@ contact our parent organisation NumFOCUS at [info@numfocus.org](mailto:info@numf
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html.
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 1.4, available at
+https://www.contributor-covenant.org/version/1/4/code-of-conduct.html.
+
+Adaptations:
+* allow reporting to individual Steering Council members.
+* added the option to contact NumFOCUS for further redress.
 
 [homepage]: https://www.contributor-covenant.org
 

@@ -64,7 +64,7 @@ Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith 
 may face temporary or permanent repercussions as determined by other members of the 
-projectâ€™s leadership.
+project’s leadership.
 
 If you feel that your report has not been followed up satisfactorily, then you may 
 contact our parent organisation NumFOCUS at [info@numfocus.org](mailto:info@numfocus.org) for further redress.
@@ -75,6 +75,7 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 https://www.contributor-covenant.org/version/1/4/code-of-conduct.html.
 
 Adaptations:
+
 * allow reporting to individual Steering Council members.
 * added the option to contact NumFOCUS for further redress.
 

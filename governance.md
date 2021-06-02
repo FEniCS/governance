@@ -3,7 +3,7 @@
 The official version of this document, along with a list of
 individuals and institutions in the roles defined in the governance
 section below, is contained in The Project Governance Repository at
-<https://bitbucket.org/fenics-project/governance>
+<https://github.org/FEniCS/governance>
 
 
 ## The Project
@@ -13,13 +13,13 @@ affiliated with the 501c3 NumFocus Foundation. The goal of The Project
 is to develop open source software for scientific computing. The
 Software developed by The Project is released under the LGPL (or
 similar) open source license, developed openly and hosted in public
-repositories under the [FEniCS Bitbucket
-organisation](https://bitbucket.org/fenics-project/). Examples of
-Project Software include DOLFIN, the FEniCS Form Compiler (FFC) and
+repositories under the [FEniCS GitHub
+organisation](https://github.org/FEniCS). Examples of
+Project Software include DOLFINx, the FEniCS Form Compiler (FFCx) and
 the Unified Form Language (UFL), etc. The Services run and/or operated
 by the Project consist of public websites and web-services that are
 hosted under the fenicsproject.org domain, and those listed at
-[https://fenicsproject.org/services](https://fenicsproject.org/services).
+[the following page](https://github.com/FEniCS/governance/blob/master/official-services.md).
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,
@@ -31,11 +31,12 @@ issues and participating in open and public Project discussions on
 Bitbucket, Google+, Slack channels and mailing lists. The foundation
 of Project participation is openness and transparency.
 
-Here is a list of the current Contributors to the DOLFIN, FFC and UFL
-repositories:
+Here is a list of the current Contributors to the basix, DOLFINx, FFCx, UFL
+and basix repositories:
 
-- [https://github.com/FEniCS/dolfin/graphs/contributors](https://github.com/FEniCS/dolfin/graphs/contributors)
-- [https://github.com/FEniCS/ffc/graphs/contributors](https://github.com/FEniCS/ffc/graphs/contributors)
+- [https://github.com/FEniCS/basix/graphs/contributors](https://github.com/FEniCS/basix/graphs/contributors)
+- [https://github.com/FEniCS/dolfinx/graphs/contributors](https://github.com/FEniCS/dolfin/graphs/contributors)
+- [https://github.com/FEniCS/ffcx/graphs/contributors](https://github.com/FEniCS/ffc/graphs/contributors)
 - [https://github.com/FEniCS/ufl/graphs/contributors](https://github.com/FEniCS/ufl/graphs/contributors)
 
 There are also many other Contributors listed in the logs of other
@@ -299,7 +300,7 @@ will have the following benefits:
 
 Changes to the governance documents are submitted via a pull request
 to The Project's governance documents repository at
-<https://bitbucket.org/fenics-project/governance>. The pull request is
+<https://github.com/FEniCS/governance>. The pull request is
 then refined in response to public comment and review, with the goal
 being consensus in the community. After this open period, a Steering
 Council Member proposes to the Steering Council that the changes be

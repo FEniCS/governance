@@ -4,9 +4,9 @@ The following services are officially operated by the FEniCS Project.
 
 - [Development mailing list](https://groups.google.com/forum/#!forum/fenics-dev)
 - [Discourse support forum](https://fenicsproject.discourse.group)
-- [DockerHub end-user images](https://hub.docker.com/u/dolfinx)
-- [DockerHub testing images](https://hub.docker.com/u/fenicsproject)
-- [Github](https://github.com/fenics)
+- [Docker end-user images](https://hub.docker.com/u/dolfinx)
+- [Docker testing images](https://hub.docker.com/u/fenicsproject)
+- [GitHub](https://github.com/fenics)
 - [PyPi](https://pypi.org/user/fenicsproject/)
 - [Slack](https://fenicsproject.slack.com)
 - [Steering Council mailbox](mailto:fenics-steering-council@googlegroups.com)
@@ -21,5 +21,5 @@ The following services are still operating and associated with the old versions
 of the FEniCS components.
 
 - [Bitbucket](https://bitbucket.org/fenics-project)
-- [Docker image builder](https://quay.io/organization/fenicsproject)
+- [Docker images](https://quay.io/organization/fenicsproject)
 - [readthedocs.org](https://fenics.readthedocs.io/en/latest/)

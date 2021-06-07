@@ -6,6 +6,7 @@ The following services are officially operated by the FEniCS Project.
 - [Discourse support forum](https://fenicsproject.discourse.group)
 - [Docker end-user images](https://hub.docker.com/u/dolfinx)
 - [Docker testing images](https://hub.docker.com/u/fenicsproject)
+- [Documentation](https://docs.fenicsproject.org)
 - [GitHub](https://github.com/fenics)
 - [PyPi](https://pypi.org/user/fenicsproject/)
 - [Slack](https://fenicsproject.slack.com)
@@ -13,6 +14,7 @@ The following services are officially operated by the FEniCS Project.
 - [Support mailing list](https://groups.google.com/forum/#!forum/fenics-support)
 - [Twitter feed curated from #fenicsnews tag](https://twitter.com/search?q=%23fenicsnews&src=typd)
 - [Ubuntu PPA](https://launchpad.net/~fenics-packages/+archive/ubuntu/fenics)
+- [UFL readthedocs.org](https://fenics.readthedocs.io/projects/ufl/en/latest/)
 - [Website](https://fenicsproject.org)
 
 ## FEniCS-old services

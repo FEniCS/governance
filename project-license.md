@@ -3,7 +3,7 @@
 Every component of the FEniCS Project is distributed under a license
 approved by the Open Source Initiative
 (<https://opensource.org/>). Currently we use the GNU LGPL version 3.0
-or later for most components.
+or later or MIT license for most components.
 
 Refer to the `LICENSE`, `COPYING` or `COPYING.LESSER` files for each
 component for specific information.

@@ -51,6 +51,6 @@ should be taken:
 - Announce the new Member on the FEniCS mailing list.
 - Add the new Member to the list in the governance repo, and if
   appropriate, add their affiliation to the Institutional Partner list
-  (<https://bitbucket.org/fenics-project/governance/src/master/people.md>).
+  (<https://github.com/FEniCS/governance/blob/master/people.md>).
 - Add the new member to the list of Steering Council members on the
-  website (<https://fenicsproject.org/about/>).
+  website (<https://fenicsproject.org/steering-council/>).

@@ -28,4 +28,4 @@ Originals are retained by the council and copies with personal
 information redacted are available at <http://fenicsproject.org/pub/copyright>.
 Templates of the forms are available at
 <https://fenicsproject.org/pub/copyright/forms> with the source code at
-<https://bitbucket.org/fenics-project/governance/src/master/copyright-consent-forms>.
+<https://github.com/FEniCS/governance/tree/master/copyright-consent-forms>

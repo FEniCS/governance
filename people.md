@@ -37,7 +37,7 @@
 
 Institutional Council members are noted with each institution.
 
-- [Carnegie Institution for Science](https://carnegiescience.edu (Nathan Sime)
+- [Carnegie Institution for Science](https://carnegiescience.edu) (Nathan Sime)
 - [Simula Research Laboratory](http://www.simula.no/) (Jørgen S. Dokken,
   Johannes Ring and Marie E. Rognes)
 - [University of Cambridge](http://www.cam.ac.uk/) (Chris Richardson,

@@ -31,8 +31,8 @@ issues and participating in open and public Project discussions on
 Bitbucket, Google+, Slack channels and mailing lists. The foundation of
 Project participation is openness and transparency.
 
-Here is a list of the current Contributors to the basix, DOLFINx, FFCx,
-UFL and basix repositories:
+Here is a list of the current Contributors to the Basix, DOLFINx, FFCx,
+and UFL repositories:
 
 - [https://github.com/FEniCS/basix/graphs/contributors](https://github.com/FEniCS/basix/graphs/contributors)
 - [https://github.com/FEniCS/dolfinx/graphs/contributors](https://github.com/FEniCS/dolfin/graphs/contributors)

@@ -14,12 +14,12 @@ is to develop open source software for scientific computing. The
 Software developed by The Project is released under the LGPL (or
 similar) open source license, developed openly and hosted in public
 repositories under the [FEniCS GitHub
-organisation](https://github.org/FEniCS). Examples of
-Project Software include DOLFINx, the FEniCS Form Compiler (FFCx) and
-the Unified Form Language (UFL), etc. The Services run and/or operated
-by the Project consist of public websites and web-services that are
-hosted under the fenicsproject.org domain, and those listed at
-[the following page](https://github.com/FEniCS/governance/blob/master/official-services.md).
+organisation](https://github.org/FEniCS). Examples of Project Software
+include DOLFINx, the FEniCS Form Compiler (FFCx) and the Unified Form
+Language (UFL), etc. The Services run and/or operated by the Project
+consist of public websites and web-services that are hosted under the
+fenicsproject.org domain, and those listed at [the following
+page](https://github.com/FEniCS/governance/blob/master/official-services.md).
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,
@@ -28,11 +28,11 @@ repositories. Anyone can be a Contributor. Contributors can be
 affiliated with any legal entity or none. Contributors participate in
 the project by submitting, reviewing and discussing pull requests and
 issues and participating in open and public Project discussions on
-Bitbucket, Google+, Slack channels and mailing lists. The foundation
-of Project participation is openness and transparency.
+Bitbucket, Google+, Slack channels and mailing lists. The foundation of
+Project participation is openness and transparency.
 
-Here is a list of the current Contributors to the basix, DOLFINx, FFCx, UFL
-and basix repositories:
+Here is a list of the current Contributors to the basix, DOLFINx, FFCx,
+UFL and basix repositories:
 
 - [https://github.com/FEniCS/basix/graphs/contributors](https://github.com/FEniCS/basix/graphs/contributors)
 - [https://github.com/FEniCS/dolfinx/graphs/contributors](https://github.com/FEniCS/dolfin/graphs/contributors)
@@ -70,9 +70,9 @@ foundations of Project governance are:
 
 Traditionally, Project leadership was provided by a subset of
 Contributors, called Core Developers, whose active and consistent
-contributions have been recognised by their receiving "commit rights"
-to the Project repositories. In general all Project decisions were
-made through consensus among the Core Developers with input from the
+contributions have been recognised by their receiving "commit rights" to
+the Project repositories. In general all Project decisions were made
+through consensus among the Core Developers with input from the
 Community.
 
 While this approach has served us well, as the Project grows and faces
@@ -229,8 +229,9 @@ its interactions with NumFOCUS.
   determined by the full Council.
 - This Subcommittee shall not make decisions about the direction,
   scope or technical direction of the Project.
-- All Members of this Subcommittee will be current Council
-  Members. No two Members of this Subcommittee may be employed by the same organisation.
+- All Members of this Subcommittee will be current Council Members. No
+  two Members of this Subcommittee may be employed by the same
+  organisation.
 
 
 ## Institutional Partners and Funding

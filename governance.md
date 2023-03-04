@@ -3,7 +3,7 @@
 The official version of this document, along with a list of
 individuals and institutions in the roles defined in the governance
 section below, is contained in The Project Governance Repository at
-<https://github.org/FEniCS/governance>
+<https://github.com/FEniCS/governance>
 
 
 ## The Project
@@ -14,7 +14,7 @@ is to develop open source software for scientific computing. The
 Software developed by The Project is released under the LGPL (or
 similar) open source license, developed openly and hosted in public
 repositories under the [FEniCS GitHub
-organisation](https://github.org/FEniCS). Examples of Project Software
+organisation](https://github.com/FEniCS). Examples of Project Software
 include DOLFINx, the FEniCS Form Compiler (FFCx) and the Unified Form
 Language (UFL), etc. The Services run and/or operated by the Project
 consist of public websites and web-services that are hosted under the
@@ -35,8 +35,8 @@ Here is a list of the current Contributors to the Basix, DOLFINx, FFCx,
 and UFL repositories:
 
 - [https://github.com/FEniCS/basix/graphs/contributors](https://github.com/FEniCS/basix/graphs/contributors)
-- [https://github.com/FEniCS/dolfinx/graphs/contributors](https://github.com/FEniCS/dolfin/graphs/contributors)
-- [https://github.com/FEniCS/ffcx/graphs/contributors](https://github.com/FEniCS/ffc/graphs/contributors)
+- [https://github.com/FEniCS/dolfinx/graphs/contributors](https://github.com/FEniCS/dolfinx/graphs/contributors)
+- [https://github.com/FEniCS/ffcx/graphs/contributors](https://github.com/FEniCS/ffcx/graphs/contributors)
 - [https://github.com/FEniCS/ufl/graphs/contributors](https://github.com/FEniCS/ufl/graphs/contributors)
 
 There are also many other Contributors listed in the logs of other
@@ -48,7 +48,7 @@ larger Project Community and we strive to keep the barrier between
 Contributors and Users as low as possible.
 
 The Project is formally affiliated with the 501c3 NumFOCUS Foundation
-([http://numfocus.org](http://numfocus.org)), which serves as its
+([https://numfocus.org](https://numfocus.org)), which serves as its
 fiscal sponsor, may hold project trademarks and other intellectual
 property, helps manage project donations and acts as a parent legal
 entity. NumFOCUS is the only legal entity that has a formal

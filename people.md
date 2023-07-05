@@ -10,11 +10,8 @@
 - Johannes Ring (Simula Research Laboratory)
 - Marie E. Rognes (Simula Research Laboratory)
 - Matthew W. Scroggs (University College London)
+- Nathan (Nate) Sime (Carnegie Institution for Science)
 - Garth N. Wells (University of Cambridge)
-
-### Hiatus
-
-- Nathan (Nate) Sime (no affiliation)
 
 ### Retired council members
 

@@ -42,6 +42,7 @@ Institutional Council members are noted with each institution.
   Johannes Ring and Marie E. Rognes)
 - [University of Cambridge](http://www.cam.ac.uk/) (Chris Richardson,
   Garth N. Wells)
+- [Università Cattolica del Sacro Cuore](https://unicatt.it) (Francesco Ballarin)
 - [University College London](http://www.ucl.ac.uk/) (Matthew W. Scroggs)
 - [University of Luxembourg](http://www.uni.lu/) (Michal Habera, Jack S. Hale)
 

@@ -3,6 +3,7 @@
 
 ## Steering Council
 
+- Francesco Ballarin (Università Cattolica del Sacro Cuore)
 - Jørgen S. Dokken (Simula Research Laboratory)
 - Michal Habera (University of Luxembourg)
 - Jack S. Hale (University of Luxembourg)

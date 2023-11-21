@@ -8,7 +8,6 @@
 - Michal Habera (University of Luxembourg)
 - Jack S. Hale (University of Luxembourg)
 - Chris Richardson (University of Cambridge)
-- Johannes Ring (Simula Research Laboratory)
 - Marie E. Rognes (Simula Research Laboratory)
 - Matthew W. Scroggs (University College London)
 - Nathan (Nate) Sime (Carnegie Institution for Science)
@@ -16,6 +15,7 @@
 
 ### Retired council members
 
+- 2016-2023 Johannes Ring (Simula Research Laboratory)
 - 2016-2020 Anders Logg (Chalmers University of Technology)
 - 2016-2018 Jan Blechta (Charles University, Chemnitz University of Technology)
 - 2016-2018 Martin S. Alnæs (Simula Research Laboratory)

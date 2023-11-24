@@ -20,5 +20,5 @@ The FEniCS Project has participated in the [Google Summer of Code](https://summe
 
 ## 2017
 
-- Ivan Yashcuch (Aalto University) -[ Develop assembly of finite element forms on quadrilateral and hexahedral meshes in FEniCS](https://nbviewer.org/gist/IvanYashchuk/48bff62b155e31f85de975b24b23e4cb/)
+- Ivan Yashcuch (Aalto University) -[Develop assembly of finite element forms on quadrilateral and hexahedral meshes in FEniCS](https://nbviewer.org/gist/IvanYashchuk/48bff62b155e31f85de975b24b23e4cb/)
 - Michal Habera (Charles University, Prague) - [Develop XDMF format for visualisation and checkpointing](https://github.com/michalhabera/gsoc-summary/blob/master/README.md/)

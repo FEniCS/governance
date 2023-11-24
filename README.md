@@ -7,14 +7,14 @@ interact, including the relationship between open source collaborative
 development and work that may be funded by for-profit or non-profit
 entities.
 
-
 ## Table of Contents
 
-* [Main Governance Document](governance.md)
-* [Current Steering Council and Institutional Partners](people.md)
-* [Licensing and Copyright](project-license.md)
-* [Code of Conduct](code-of-conduct.md)
-* [List of official services](official-services.md)
+- [Main Governance Document](governance.md)
+- [Current Steering Council and Institutional Partners](people.md)
+- [Licensing and Copyright](project-license.md)
+- [Code of Conduct](code-of-conduct.md)
+- [List of official services](official-services.md)
+- [Google Summer of Code](gsoc.md)
 
 ## License of Governance Documents
 

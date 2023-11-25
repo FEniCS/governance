@@ -6,7 +6,7 @@ The FEniCS Project has participated in the [Google Summer of Code](https://summe
 
 ## 2022
 
-- Michele Castriotta (Istituto Italiano di Tecnologia) - [Expanding FEniCSx electromagnetic demos](https://mikics.github.io/gsoc-jupyterbook/submission.html)
+- Michele Castriotta (Istituto Italiano di Tecnologia): [Expanding FEniCSx electromagnetic demos](https://mikics.github.io/gsoc-jupyterbook/submission.html)
 
 ## 2019
 

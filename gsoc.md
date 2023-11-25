@@ -15,10 +15,10 @@ The FEniCS Project has participated in the [Google Summer of Code](https://summe
 
 ## 2018
 
-- Fabian Löschner (RWTH Aachen University) - [Maximising performance on modern architectures with data-level parallelism](https://flgsoc18.wordpress.com/2018/05/13/excited-for-fenics-and-gsoc/)
-- Igor Baratta (Universidade Federal de Minas Gerais)- [Complex Number support in FEniCS](https://gist.github.com/IgorBaratta/c7ca5252834f2c70efe0d233a3acecb4)
+- Fabian Löschner (RWTH Aachen University): [Maximising performance on modern architectures with data-level parallelism](https://flgsoc18.wordpress.com/2018/05/13/excited-for-fenics-and-gsoc/)
+- Igor Baratta (Universidade Federal de Minas Gerais): [Complex Number support in FEniCS](https://gist.github.com/IgorBaratta/c7ca5252834f2c70efe0d233a3acecb4)
 
 ## 2017
 
-- Ivan Yashchuk (Aalto University) - [Develop assembly of finite element forms on quadrilateral and hexahedral meshes in FEniCS](https://nbviewer.org/gist/IvanYashchuk/48bff62b155e31f85de975b24b23e4cb/)
-- Michal Habera (Charles University, Prague) - [Develop XDMF format for visualisation and checkpointing](https://github.com/michalhabera/gsoc-summary/blob/master/README.md/)
+- Ivan Yashchuk (Aalto University): [Develop assembly of finite element forms on quadrilateral and hexahedral meshes in FEniCS](https://nbviewer.org/gist/IvanYashchuk/48bff62b155e31f85de975b24b23e4cb/)
+- Michal Habera (Charles University, Prague): [Develop XDMF format for visualisation and checkpointing](https://github.com/michalhabera/gsoc-summary/blob/master/README.md/)

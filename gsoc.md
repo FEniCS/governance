@@ -11,7 +11,7 @@ The FEniCS Project has participated in the [Google Summer of Code](https://summe
 ## 2019
 
 - Abhinav Gupta (Indian Institute of Technology, Roorkee): [FEniCS: The mesh workflow](https://computationalmechanics.in/fenics-the-mesh-workflow/)
-- Igor Baratta (Universidade Federal de Minas Gerais)- [Interface to KaHIP partitioner](https://gist.github.com/IgorBaratta/038747f9aff44eb844c0913614bf0c03)
+- Igor Baratta (Universidade Federal de Minas Gerais): [Interface to KaHIP partitioner](https://gist.github.com/IgorBaratta/038747f9aff44eb844c0913614bf0c03)
 
 ## 2018
 

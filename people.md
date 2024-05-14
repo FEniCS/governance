@@ -4,6 +4,7 @@
 ## Steering Council
 
 - Francesco Ballarin (Università Cattolica del Sacro Cuore)
+- Cécile Daversin-Catty (Simula Research Laboratory) 
 - Jørgen S. Dokken (Simula Research Laboratory)
 - Michal Habera (University of Luxembourg)
 - Jack S. Hale (University of Luxembourg)
@@ -39,8 +40,7 @@
 Institutional Council members are noted with each institution.
 
 - [Carnegie Institution for Science](https://carnegiescience.edu) (Nathan Sime)
-- [Simula Research Laboratory](http://www.simula.no/) (Jørgen S. Dokken,
-  Johannes Ring and Marie E. Rognes)
+- [Simula Research Laboratory](http://www.simula.no/) (Cécile Daversin-Catty, Jørgen S. Dokken and Marie E. Rognes)
 - [University of Cambridge](http://www.cam.ac.uk/) (Chris Richardson,
   Garth N. Wells)
 - [University College London](http://www.ucl.ac.uk/) (Matthew W. Scroggs)

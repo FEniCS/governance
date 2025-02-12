@@ -1,6 +1,5 @@
 # Steering Council, Advisory Board and Institutional Partners
 
-
 ## Steering Council
 
 - Francesco Ballarin (Università Cattolica del Sacro Cuore)
@@ -9,13 +8,13 @@
 - Michal Habera (University of Luxembourg)
 - Jack S. Hale (University of Luxembourg)
 - Chris Richardson (University of Cambridge)
-- Marie E. Rognes (Simula Research Laboratory)
 - Matthew W. Scroggs (University College London)
 - Nathan (Nate) Sime (Carnegie Institution for Science)
 - Garth N. Wells (University of Cambridge)
 
 ### Retired council members
 
+- 2016-2024 Marie E. Rognes (Simula Research Laboratory)
 - 2016-2023 Johannes Ring (Simula Research Laboratory)
 - 2016-2020 Anders Logg (Chalmers University of Technology)
 - 2016-2018 Jan Blechta (Charles University, Chemnitz University of Technology)
@@ -25,7 +24,6 @@
 
 - Jack S. Hale
 - Chris Richardson
-- Marie E. Rognes
 
 ## Advisory board
 

@@ -25,14 +25,6 @@
 - Jack S. Hale
 - Chris Richardson
 
-## Advisory board
-
-- Douglas N. Arnold (University of Minnesota)
-- Lois Curfman McInnes (Argonne National Laboratory)
-- David Keyes (King Abdullah University of Science and Technology)
-- L. Ridgway Scott (University of Chicago)
-- Sumiu Uchida (Mitsubishi Heavy Industries)
-
 ## New Steering Council Members
 
 When a new Member joins the Steering Council, the following steps

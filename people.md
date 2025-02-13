@@ -25,27 +25,6 @@
 - Jack S. Hale
 - Chris Richardson
 
-## Advisory board
-
-- Douglas N. Arnold (University of Minnesota)
-- Lois Curfman McInnes (Argonne National Laboratory)
-- David Keyes (King Abdullah University of Science and Technology)
-- L. Ridgway Scott (University of Chicago)
-- Sumiu Uchida (Mitsubishi Heavy Industries)
-
-## Institutional Partners
-
-Institutional Council members are noted with each institution.
-
-- [Carnegie Institution for Science](https://www.carnegiescience.edu/) (Nathan Sime)
-- [Simula Research Laboratory](http://www.simula.no/) (Cécile Daversin-Catty, Jørgen S. Dokken and Marie E. Rognes)
-- [University of Cambridge](http://www.cam.ac.uk/) (Chris Richardson,
-  Garth N. Wells)
-- [Università Cattolica del Sacro Cuore](https://www.unicatt.it/) (Francesco Ballarin)
-- [University College London](http://www.ucl.ac.uk/) (Matthew W. Scroggs)
-- [University of Luxembourg](http://www.uni.lu/) (Michal Habera, Jack S. Hale)
-
-
 ## New Steering Council Members
 
 When a new Member joins the Steering Council, the following steps

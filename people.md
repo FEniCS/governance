@@ -5,7 +5,6 @@
 - Francesco Ballarin (Università Cattolica del Sacro Cuore)
 - Cécile Daversin-Catty (Simula Research Laboratory)
 - Jørgen S. Dokken (Simula Research Laboratory)
-- Michal Habera (University of Luxembourg)
 - Jack S. Hale (University of Luxembourg)
 - Chris Richardson (University of Cambridge)
 - Matthew W. Scroggs (University College London)
@@ -14,6 +13,7 @@
 
 ### Retired council members
 
+- 2018-2026 Michal Habera (University of Luxembourg)
 - 2016-2024 Marie E. Rognes (Simula Research Laboratory)
 - 2016-2023 Johannes Ring (Simula Research Laboratory)
 - 2016-2020 Anders Logg (Chalmers University of Technology)
